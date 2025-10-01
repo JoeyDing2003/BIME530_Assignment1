@@ -7,3 +7,6 @@
  - If not familiar with SQL:
     - https://www.w3schools.com/sql/sql_intro.asp
     -  https://lweb.cfa.harvard.edu/flemingdb/sql-primer-querying-single-table
+ 
+ - Cheatsheet:
+   - https://www.w3schools.com/sql/sql_intro.asp
