@@ -1,0 +1,242 @@
+Id,Code,Name,Standard Class,Domain,Vocab,Validity,Concept
+763376,439421000124102,"Local AIDS pharmaceutical assistance, APA, not ADAP",Procedure,Observation,SNOMED,Valid,Standard
+1074426,1343305005,AIDS Clinical Trials Group system,Staging / Scales,Measurement,SNOMED,Valid,Standard
+3540045,673571000000106,AIDS with viral/chlamydial disease NOS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4013407,103413000,HIV CDC category C2 (AIDS),Clinical Finding,Measurement,SNOMED,Invalid,Non-standard
+4013408,103414006,HIV CDC category C3 (AIDS),Clinical Finding,Measurement,SNOMED,Invalid,Non-standard
+4013737,103408004,HIV CDC category A3 (AIDS),Clinical Finding,Measurement,SNOMED,Invalid,Non-standard
+4013738,103412005,HIV CDC category C1 (AIDS),Clinical Finding,Measurement,SNOMED,Invalid,Non-standard
+4014172,103411003,HIV CDC category B3 (AIDS),Clinical Finding,Measurement,SNOMED,Invalid,Non-standard
+4014176,103418009,HIV WHO class IV (AIDS),Clinical Finding,Observation,SNOMED,Invalid,Non-standard
+4015838,170470004,AIDS contact,Clinical Finding,Observation,SNOMED,Invalid,Non-standard
+4015845,170492000,AIDS carrier,Clinical Finding,Observation,SNOMED,Invalid,Non-standard
+4017157,170530008,Notification of AIDS,Procedure,Observation,SNOMED,Valid,Standard
+4043934,16810008,AIDS with viral pneumonia,Disorder,Condition,SNOMED,Invalid,Non-standard
+4117542,286880007,AIDS with viral/chlamydial disease NOS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4157380,273454004,Fear of AIDS scale,Staging / Scales,Measurement,SNOMED,Valid,Standard
+4164666,273263000,AIDS Risk Behavior Knowledge Test,Staging / Scales,Measurement,SNOMED,Valid,Standard
+4211956,416729007,Neutropenia with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4220603,420281004,Skin rash with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4221503,420787001,Pneumococcal pneumonia with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4221607,420818005,Mycobacteriosis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4221911,420900006,Fatigue with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4221939,421009000,Prion disease associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4222062,421047005,Candidiasis of lung with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4222094,421184005,Septicemia associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4222224,421230000,Hepatomegaly with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4222250,420244003,Encephalitis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4222383,420321004,Intestinal malabsorption with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4222402,420384005,Hematopoietic system disease with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4222405,420395004,Acute endocarditis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4222712,421403008,Cryptococcosis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4222717,421415007,Subacute adenoviral encephalitis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4223031,420543008,Anemia associated with AIDS,Disorder,Condition,SNOMED,Valid,Standard
+4223032,420544002,Bacterial pneumonia with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4223276,420718004,Central nervous system demyelinating disease with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4223573,421792005,Cryptosporidiosis associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4223585,421837008,Subcutaneous tissue disease associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4223597,421883002,Strongyloidiasis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4223736,421979003,Dermatophytosis associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4223738,421983003,Noninfectious gastroenteritis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4223918,420308006,Retinal vascular changes with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4224078,420452002,Myelopathy with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4224096,420524008,Kaposi's sarcoma with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4224240,421023003,Presenile dementia with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4224409,421218006,Slow virus infection associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4224425,421272004,Subacute myocarditis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4224553,421312009,Agranulocytosis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4224566,421394009,Skin disorder with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4224578,421431004,Nocardiosis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4224740,422337001,Coccidioidomycosis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4224860,420614009,Organic dementia with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4225017,420764009,Salmonella infection with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4225027,420801006,Malaise with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4225170,420945005,Histoplasmosis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4225187,420991002,Herpes simplex associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4225318,421508002,Viral pneumonia with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4225319,421510000,Isosporiasis associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4225643,421874007,Respiratory disorder with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4225810,421102007,Aplastic anemia with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4225989,421454008,Infectious gastroenteritis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4226110,421998001,Central nervous disorder with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4226111,422003001,Cachexia associated with AIDS,Clinical Finding,Condition,SNOMED,Valid,Standard
+4226120,422031005,Opportunistic mycosis associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4226260,422241000,Cytomegalic inclusion disease associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4226357,422282000,Malignant neoplasm with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4226388,420302007,Reticulosarcoma with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4226502,420403001,Pneumocystosis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4226629,420549007,Salivary gland disease with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4226631,420554003,Progressive multifocal leukoencephalopathy with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4226648,420615005,Candiasis of skin AND/OR nails associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4226658,421571007,Tuberculosis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4226662,421597001,Polyneuropathy with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4226787,421695000,Abnormal weight loss associated with AIDS,Clinical Finding,Observation,SNOMED,Valid,Standard
+4226790,421706001,Blindness with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4226792,421710003,Candidiasis of mouth with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4226905,421766003,Thrombocytopenia with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4226925,421835000,Immunoblastic lymphoma associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4227053,421929001,Myocarditis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4227072,420658009,Radiculitis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4227076,420687005,Ill-defined intestinal infection associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4227077,420691000,Nutritional deficiency with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4227200,420749009,Hypersplenism associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4227205,420774007,Organic brain syndrome with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4227229,420877009,Dermatomycosis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4227350,420938005,Subacute endocarditis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4227380,421077004,Disseminated candidiasis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4227511,421977001,Lymphadenopathy associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4227519,422012004,Neuritis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4227531,422074008,Coccidiosis associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4227539,422127002,Herpes zoster with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4227649,422159009,Non-arthropod-borne viral disease associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4227821,421154002,Fever associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4227834,421189000,Deficiency anemia associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4227957,421214008,Other disorder of immune system associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4227969,421283008,Primary lymphoma of brain with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4227974,421315006,Myelitis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4228115,421460008,Retinopathy with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4228117,421473007,Hypovolemia associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4228133,421529006,Dementia with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4228272,421660003,Failure to thrive in infant with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4228274,421666009,Toxoplasmosis associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4228277,421671002,Pneumonia with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4228290,421708000,Infective arthritis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4228440,421827003,Encephalopathy with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4228444,421851008,Acquired hemolytic anemia associated with AIDS,Disorder,Condition,SNOMED,Valid,Standard
+4228604,422052002,Burkitt's lymphoma associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4228612,422089004,Encephalomyelitis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4228745,422136003,Neuralgia with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4228754,422177004,Dyspnea with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4228757,422189002,Low vision with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4228760,422194002,Hyperhidrosis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard
+4228776,422260007,Splenomegaly associated with AIDS,Disorder,Condition,SNOMED,Invalid,Non-standard
+4230396,359791000,AIDS with dermatomycosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+4236138,406528008,AIDS Clinical Trial Group,Social Context,Observation,SNOMED,Valid,Non-standard
+4241524,91923005,AIDS virus infection associated with pregnancy,Disorder,Condition,SNOMED,Invalid,Non-standard
+4258510,409113002,Pediatric AIDS Clinical Trial Group,Social Context,Observation,SNOMED,Valid,Non-standard
+4267414,62479008,AIDS,Disorder,Condition,SNOMED,Valid,Standard
+4269627,62246005,AIDS-like syndrome,Disorder,Condition,SNOMED,Invalid,Non-standard
+4299361,77070006,AIDS with Salmonella infection,Disorder,Condition,SNOMED,Invalid,Non-standard
+35610231,1090791000000106,Assessment using AIDS (Acquired Immunodeficiency Syndrome) Risk Behavior Knowledge Test,Procedure,Procedure,SNOMED,Invalid,Non-standard
+35610232,1090801000000105,AIDS (Acquired Immunodeficiency Syndrome) Risk Behavior Knowledge Test total score,Observable Entity,Measurement,SNOMED,Invalid,Non-standard
+36683342,781146004,Assessment using AIDS Risk Behavior Knowledge Test,Procedure,Measurement,SNOMED,Valid,Non-standard
+36683343,781147008,AIDS Risk Behavior Knowledge Test total score,Observable Entity,Measurement,SNOMED,Valid,Non-standard
+37166798,1260096003,AIDS (acquired immunodeficiency syndrome) wasting syndrome,Disorder,Condition,SNOMED,Valid,Standard
+37398360,999002431000000102,AIDS (acquired immune deficiency syndrome) defining illness for adults simple reference set,Model Comp,Metadata,SNOMED,Invalid,Non-standard
+40260457,178257007,AIDS virus with acute lymphadenitis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40269491,10479001,AIDS with other disorders involving the immune mechanism,Disorder,Condition,SNOMED,Invalid,Non-standard
+40273996,11303005,AIDS with organic brain syndrome,Disorder,Condition,SNOMED,Invalid,Non-standard
+40276909,111881002,AIDS with disseminated candidiasis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40276910,111882009,AIDS with disseminated candidiasis of other and unspecified sites,Disorder,Condition,SNOMED,Invalid,Non-standard
+40276911,111883004,AIDS with other and unspecified mycobacteriosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40276912,111884005,AIDS with mycobacteriosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40276913,111885006,AIDS with pneumonia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40276914,111886007,AIDS with or without other conditions,Disorder,Condition,SNOMED,Invalid,Non-standard
+40276915,111887003,AIDS with specified diseases of the central nervous system,Disorder,Condition,SNOMED,Invalid,Non-standard
+40276916,111888008,AIDS with other specified conditions,Disorder,Condition,SNOMED,Invalid,Non-standard
+40276917,111889000,Other AIDS virus infection,Disorder,Condition,SNOMED,Invalid,Non-standard
+40282030,1170003,AIDS with hyperhidrosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40285386,12019006,AIDS with rash,Disorder,Condition,SNOMED,Invalid,Non-standard
+40287885,11837006,AIDS with subacute adenoviral encephalitis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40295324,12741002,AIDS with dementia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40298405,13452004,AIDS with subacute myocarditis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40299569,13556003,AIDS with hepatomegaly,Disorder,Condition,SNOMED,Invalid,Non-standard
+40299981,14249000,AIDS with candidiasis of mouth,Disorder,Condition,SNOMED,Invalid,Non-standard
+40300690,1362002,AIDS with neuralgia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40313685,15118008,AIDS with reticulosarcoma,Disorder,Condition,SNOMED,Invalid,Non-standard
+40315012,147723008,HIV contact (& [AIDS]),Clinical Finding,Observation,SNOMED,Invalid,Non-standard
+40315036,147745009,AIDS carrier,Clinical Finding,Observation,SNOMED,Invalid,Non-standard
+40315079,147784004,Notification of AIDS,Procedure,Observation,SNOMED,Invalid,Non-standard
+40319124,15427004,"AIDS with specified infection, NEC",Disorder,Condition,SNOMED,Invalid,Non-standard
+40319627,154367007,(AIDS with viral/chlamydial dis NOS) or (ornithosis) or (trachoma),Disorder,Condition,SNOMED,Invalid,Non-standard
+40321527,15884001,AIDS with cryptococcosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40322450,157000,AIDS with low vision,Disorder,Condition,SNOMED,Invalid,Non-standard
+40327610,16437002,AIDS with tuberculosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40330860,160973006,([HIV] or [AIDS] risk lifestyle) or (multiple sexual partners),Clinical Finding,Observation,SNOMED,Invalid,Non-standard
+40345078,266200005,(AIDS with viral/chlamydial dis NOS) or (ornithosis) or (trachoma),Disorder,Condition,SNOMED,Invalid,Non-standard
+40349877,26118004,AIDS with acute endocarditis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40356230,268593006,HIV contact (& [AIDS]),Clinical Finding,Observation,SNOMED,Invalid,Non-standard
+40364496,28077005,AIDS with neuritis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40373839,29099009,AIDS with central nervous system disorder,Disorder,Condition,SNOMED,Invalid,Non-standard
+40376592,186705005,(AIDS) or (HIV infection),Disorder,Condition,SNOMED,Invalid,Non-standard
+40388362,19423005,AIDS with coccidiosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40390518,19285002,AIDS with opportunistic mycosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40401213,20197001,AIDS with lymphadenopathy,Disorder,Condition,SNOMED,Invalid,Non-standard
+40403276,20421002,"AIDS virus infection, NEC",Disorder,Condition,SNOMED,Invalid,Non-standard
+40430583,22892000,AIDS with intestinal malabsorption,Disorder,Condition,SNOMED,Invalid,Non-standard
+40433809,23488005,AIDS with progressive multifocal leukoencephalopathy,Disorder,Condition,SNOMED,Invalid,Non-standard
+40458412,2555007,AIDS with nutritional deficiency,Disorder,Condition,SNOMED,Invalid,Non-standard
+40459343,2520005,AIDS with volume depletion,Disorder,Condition,SNOMED,Invalid,Non-standard
+40485883,46531005,AIDS with encephalomyelitis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40487286,46910000,AIDS with microsporidiosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40487312,46933004,AIDS with splenomegaly,Disorder,Condition,SNOMED,Invalid,Non-standard
+40489022,45166008,AIDS with subcutaneous tissue disease,Disorder,Condition,SNOMED,Invalid,Non-standard
+40490143,45529006,AIDS with infective arthritis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40491089,45719002,AIDS with hypersplenism,Disorder,Condition,SNOMED,Invalid,Non-standard
+40513338,313113003,AIDS with subacute adenoviral encephalitis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40515460,31363004,AIDS with encephalitis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40517943,312261006,AIDS with slow virus infection,Disorder,Condition,SNOMED,Invalid,Non-standard
+40522596,3211006,AIDS with hematopoietic system disease,Disorder,Condition,SNOMED,Invalid,Non-standard
+40525124,314103003,AIDS virus with aseptic meningitis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40528131,34952005,AIDS with radiculitis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40532000,33579009,AIDS with candidiasis of skin AND/OR nails,Disorder,Condition,SNOMED,Invalid,Non-standard
+40532429,33615004,AIDS with cytomegalic inclusion disease,Disorder,Condition,SNOMED,Invalid,Non-standard
+40533440,33745006,AIDS with pneumocystosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40538664,36154007,AIDS with deficiency anemia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40539088,359775003,AIDS with isosporiasis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40539091,359778001,AIDS with coccidiosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40539101,359787005,AIDS with dermatophytosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40541688,35372003,AIDS with anemia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40549354,38118004,AIDS with cryptosporidiosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40553892,37721008,AIDS with pneumococcal pneumonia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40559500,39047000,AIDS with septicemia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40570042,398173000,AIDS with encephalitis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40572055,39363001,AIDS with myelopathy,Disorder,Condition,SNOMED,Invalid,Non-standard
+40595410,42028002,AIDS with failure to thrive syndrome (in infant),Disorder,Condition,SNOMED,Invalid,Non-standard
+40599235,54962007,AIDS with fever,Disorder,Condition,SNOMED,Invalid,Non-standard
+40601201,51229007,AIDS with strongyloidiasis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40604980,56301005,AIDS with noninfectious gastroenteritis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40607606,60690004,AIDS with herpes simplex,Disorder,Condition,SNOMED,Invalid,Non-standard
+40607612,60696005,AIDS with bacterial pneumonia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40611164,63536001,AIDS with toxoplasmosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40611202,6357002,AIDS with primary lymphoma of the brain,Disorder,Condition,SNOMED,Invalid,Non-standard
+40612233,61800002,AIDS with skin disease,Disorder,Condition,SNOMED,Invalid,Non-standard
+40612548,58002003,AIDS with myelitis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40613401,62102009,AIDS with presenile dementia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40614849,58522005,AIDS with coccidioidomycosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40615014,62395007,AIDS with dermatomycosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40617177,69154000,AIDS with background retinopathy,Disorder,Condition,SNOMED,Invalid,Non-standard
+40617874,71479007,AIDS with abnormal weight loss,Disorder,Condition,SNOMED,Invalid,Non-standard
+40618514,71646001,AIDS with dyspnea,Disorder,Condition,SNOMED,Invalid,Non-standard
+40619928,6764002,AIDS with leukoplakia of oral mucosa (tongue),Disorder,Condition,SNOMED,Invalid,Non-standard
+40622364,7019004,AIDS with ill-defined intestinal infection,Disorder,Condition,SNOMED,Invalid,Non-standard
+40622858,68313006,AIDS with acquired hemolytic anemia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40624329,64473008,AIDS with salivary gland disease,Disorder,Condition,SNOMED,Invalid,Non-standard
+40624705,68766007,AIDS with polyneuropathy,Disorder,Condition,SNOMED,Invalid,Non-standard
+40625633,73266005,AIDS with fatigue,Disorder,Condition,SNOMED,Invalid,Non-standard
+40627181,77865003,AIDS with Kaposi's sarcoma,Disorder,Condition,SNOMED,Invalid,Non-standard
+40628917,76242005,AIDS with retinal vascular changes,Disorder,Condition,SNOMED,Invalid,Non-standard
+40629865,80440003,AIDS with malignant neoplasm,Disorder,Condition,SNOMED,Invalid,Non-standard
+40631324,74633007,AIDS with cachexia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40631402,768007,AIDS with subacute endocarditis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40634504,77484008,AIDS with non-arthropod-borne viral disease,Disorder,Condition,SNOMED,Invalid,Non-standard
+40634549,77524007,AIDS with infectious gastroenteritis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40635689,88693009,AIDS with candidiasis of lung,Disorder,Condition,SNOMED,Invalid,Non-standard
+40636102,84350008,AIDS with immunoblastic sarcoma,Disorder,Condition,SNOMED,Invalid,Non-standard
+40636708,84487004,AIDS with blindness,Disorder,Condition,SNOMED,Invalid,Non-standard
+40638121,87014001,AIDS with herpes zoster,Disorder,Condition,SNOMED,Invalid,Non-standard
+40638708,87129002,AIDS with CNS demyelinating disease,Disorder,Condition,SNOMED,Invalid,Non-standard
+40638817,89706008,AIDS with Burkitt's tumor,Disorder,Condition,SNOMED,Invalid,Non-standard
+40640008,89395004,AIDS with histoplasmosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40640059,8944008,AIDS with encephalopathy,Disorder,Condition,SNOMED,Invalid,Non-standard
+40641147,87653009,AIDS with Nocardia infection,Disorder,Condition,SNOMED,Invalid,Non-standard
+40641365,90194001,AIDS with organic dementia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40641740,87769005,AIDS with pyrexia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40641912,89565008,AIDS with malaise,Disorder,Condition,SNOMED,Invalid,Non-standard
+40642121,8350005,AIDS with respiratory abnormality,Disorder,Condition,SNOMED,Invalid,Non-standard
+40642744,83659007,AIDS with aplastic anemia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40643053,88136003,AIDS with secondary thrombocytopenia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40644474,83983002,AIDS with thrombocytopenia,Disorder,Condition,SNOMED,Invalid,Non-standard
+40644516,8402005,AIDS with acute myocarditis,Disorder,Condition,SNOMED,Invalid,Non-standard
+40652283,906000,AIDS with agranulocytosis,Disorder,Condition,SNOMED,Invalid,Non-standard
+44783780,697965002,Cholangitis with AIDS (acquired immunodeficiency syndrome),Disorder,Condition,SNOMED,Valid,Standard

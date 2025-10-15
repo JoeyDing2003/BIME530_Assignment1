@@ -1,0 +1,14 @@
+Id,Code,Name,Standard Class,Domain,Vocab,Validity,Concept
+778178,PCSMTPLD,Primary Cutaneous CD4 Positive Small/Medium T-Cell Lymphoproliferative Disorder (PCSMTPLD),Condition,Condition,OncoTree,Valid,Non-standard
+3229005,763713000,ICL - idiopathic CD4 lymphocytopenia,Clinical Finding,Condition,Nebraska Lexicon,Valid,Non-standard
+3246144,406565005,CD4 T lymphocyte deficiency,Clinical Finding,Condition,Nebraska Lexicon,Valid,Non-standard
+4231976,406565005,CD4 T lymphocyte deficiency,Disorder,Condition,SNOMED,Valid,Standard
+19139458,D018344,"T-Lymphocytopenia, Idiopathic CD4-Positive",Main Heading,Condition,MeSH,Valid,Non-standard
+35622306,763713000,Idiopathic CD4 lymphocytopenia,Disorder,Condition,SNOMED,Valid,Standard
+37312274,788674000,Primary cutaneous CD4 positive small and medium T-cell lymphoproliferative disorder,Disorder,Condition,SNOMED,Valid,Standard
+42513933,9709/1-NULL,Neoplasm defined only by histology: Primary cutaneous CD4 positive small/medium T-cell lymphoproliferative disorder,ICDO Condition,Condition,ICDO3,Valid,Standard
+45919943,1254,CD4 COUNT GREATER THAN 200,Finding,Condition,CIEL,Valid,Non-standard
+45935235,162183,Abnormally decreased CD4 cell count,Finding,Condition,CIEL,Valid,Non-standard
+45947058,162850,Absolute CD4 count below guideline cutoff for initiating antiretroviral therapy,Finding,Condition,CIEL,Valid,Non-standard
+45949607,160103,Last CD4 count date,Finding,Condition,CIEL,Valid,Non-standard
+45949665,160565,CD4 count less than 250 cells/mm3,Finding,Condition,CIEL,Valid,Non-standard

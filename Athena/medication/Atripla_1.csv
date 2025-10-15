@@ -1,0 +1,106 @@
+Id,Code,Name,Standard Class,Domain,Vocab,Validity,Concept
+826982,c911bcbf-7ffb-4366-9fe6-f5d445f4b69d,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+1109739,e15694cd-e146-494a-e053-2a95a90ab52d,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+1169875,3cf1ef4b-a2c0-416a-80be-59c4d65d2dfc,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+1184450,9b7353bb-a098-2fef-e053-2995a90a7529,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+1211587,b670fd52-7f65-e416-e053-2a95a90ac7b7,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+1265124,868a3891-1f5d-4ffb-beb6-df53847f07bb,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+19091076,643067,Atripla,Brand Name,Drug,RxNorm,Valid,Non-standard
+19124373,643068,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG [Atripla],Branded Drug Comp,Drug,RxNorm,Valid,Standard
+19124374,643070,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],Branded Drug,Drug,RxNorm,Valid,Standard
+21023930,OMOP379517,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 250 MG Oral Tablet [Atripla],Branded Drug,Drug,RxNorm Extension,Valid,Standard
+21043604,OMOP379514,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 250 MG [Atripla],Branded Drug Comp,Drug,RxNorm Extension,Valid,Standard
+21102497,OMOP379519,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 250 MG Oral Tablet [Atripla] Box of 30,Branded Drug Box,Drug,RxNorm Extension,Valid,Standard
+21112307,OMOP379520,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 250 MG Oral Tablet [Atripla] Box of 30 by Gilead,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+21171239,OMOP379518,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 250 MG Oral Tablet [Atripla] by Gilead,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+21183865,12948911000001102,Atripla 600mg/200mg/245mg tablets,AMP,Drug,dm+d,Valid,Non-standard
+21215649,OMOP251582,Atripla,Brand Name,Drug,dm+d,Invalid,Non-standard
+21229836,12949011000001106,Atripla 600mg/200mg/245mg tablets (Gilead Sciences Ltd) 30 tablet,AMPP,Drug,dm+d,Valid,Non-standard
+35427986,OMOP1132651,Atripla,Brand Name,Drug,BDPM,Valid,Non-standard
+35747851,OMOP2749312,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 250 MG Delayed Release Oral Tablet [Atripla] by Gilead,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+35764515,OMOP2765976,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 250 MG Delayed Release Oral Tablet [Atripla] Box of 30 by Gilead,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+36170730,83183fad-270e-4176-8a0d-eb1be5456489,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+36236510,1172891,Atripla Oral Product,Branded Dose Group,Drug,RxNorm,Valid,Classification
+36236511,1172892,Atripla Pill,Branded Dose Group,Drug,RxNorm,Valid,Classification
+36286501,mp2493-794,Atripla,Medicinal Product,Drug,GGR,Valid,Non-standard
+36288667,mpp2647071,Atripla 600/200/245 filmomh. tabl. 30x,Drug Product,Drug,GGR,Invalid,Non-standard
+36469113,17a747c1-84bd-4288-bfdd-192566d37a1b,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+36791130,2647071,Atripla 600/200/245 filmomh. tabl. 30x,Med Product Pack,Drug,GGR,Valid,Non-standard
+36801079,d398eda9-8751-4911-e053-2995a90a87fe,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+36801577,a618c51f-5e21-4c41-9607-417fd04ee8ba,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+36987061,a43f1190-f19e-eeed-e053-2995a90a9cea,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+37600698,83d3e414-dbf9-9cb6-e053-2a91aa0aa3c9,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+40134708,643069,efavirenz / emtricitabine / tenofovir disoproxil Oral Tablet [Atripla],Branded Drug Form,Drug,RxNorm,Valid,Standard
+40701282,9569501000001106,Atripla,Brand Name,Drug,dm+d,Valid,Non-standard
+40825359,OMOP2023321,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 300 MG Oral Tablet [Atripla] Box of 30 by Emra-Med,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+40855382,OMOP2053344,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 300 MG Oral Tablet [Atripla] Box of 30 by Aaston,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+40855383,OMOP2053345,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 300 MG Oral Tablet [Atripla] Box of 90 by Beragena,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+40855384,OMOP2053346,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 300 MG Oral Tablet [Atripla] Box of 30 by Beragena,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+40886688,OMOP2084650,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 300 MG Oral Tablet [Atripla] Box of 30 by Kohlpharma,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+40917587,OMOP2115549,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 300 MG Oral Tablet [Atripla] Box of 30 by Aca Mueller,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+40971273,OMOP2169235,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 300 MG Oral Tablet [Atripla] Box of 30,Branded Drug Box,Drug,RxNorm Extension,Valid,Standard
+41073667,OMOP2271629,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 300 MG Oral Tablet [Atripla] Box of 30 by Haematogmbh,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+41136543,OMOP2334505,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 300 MG Oral Tablet [Atripla] Box of 30 by Gilead,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+41136544,OMOP2334506,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 300 MG Oral Tablet [Atripla] Box of 30 by Medicopharm,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+41252484,OMOP2450446,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 300 MG Oral Tablet [Atripla] Box of 90,Branded Drug Box,Drug,RxNorm Extension,Valid,Standard
+41323443,OMOP2521405,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 300 MG Oral Tablet [Atripla] Box of 90 by Cc,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+41323444,OMOP2521406,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 300 MG Oral Tablet [Atripla] Box of 30 by Docpharm,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+41323445,OMOP2521407,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 300 MG Oral Tablet [Atripla] Box of 30 by Cc,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+42638225,bd44887d-ef5a-7c15-e053-2995a90a7a1b,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+42801687,587e27c0-c531-4f30-8832-500ecba8cc4e,"ATRIPLA - efavirenz, emtricitabine, and tenofovir disoproxil fumarate tablet, film coated",Prescription Drug,Drug,SPL,Valid,Classification
+42809765,3d84e145-928c-461b-86b6-a2994b1f6bee,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+42812745,6181e6d5-fca7-ce10-e053-2a91aa0a09e2,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+43026159,OMOP4841255,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 250 MG Oral Tablet [Atripla] Box of 30 by Bristol Myers Squibb,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+43144918,OMOP432757,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 250 MG Delayed Release Oral Tablet [Atripla],Branded Drug,Drug,RxNorm Extension,Valid,Standard
+43178107,OMOP432754,efavirenz / emtricitabine / tenofovir disoproxil Delayed Release Oral Tablet [Atripla],Branded Drug Form,Drug,RxNorm Extension,Valid,Standard
+43178108,OMOP432759,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 250 MG Delayed Release Oral Tablet [Atripla] Box of 30 by Bristol Myers Squibb,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+43210854,OMOP432758,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 250 MG Delayed Release Oral Tablet [Atripla] Box of 30,Branded Drug Box,Drug,RxNorm Extension,Valid,Standard
+43230620,OMOP417505,ATRIPLA,Brand Name,Drug,BDPM,Invalid,Non-standard
+43237585,3830699,"ATRIPLA 600 mg/200 mg/245 mg, comprimé pelliculé",Drug Product,Drug,BDPM,Valid,Non-standard
+43308253,82872011000036104,"Atripla Tablet, 30, Bottle",Containered Pack,Drug,AMT,Valid,Non-standard
+43317161,82654011000036104,Atripla,Trade Product,Drug,AMT,Valid,Non-standard
+43326263,82779011000036107,"Atripla Tablet, 30",Trade Product Pack,Drug,AMT,Valid,Non-standard
+43335368,82689011000036106,Atripla Tablet,Trade Product Unit,Drug,AMT,Valid,Non-standard
+44102438,OMOP1097069,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil 300 MG Oral Tablet [Atripla] by Bristol Myers Squibb,Marketed Product,Drug,RxNorm Extension,Valid,Standard
+44144942,DPD118580,Atripla,Brand Name,Drug,DPD,Valid,Non-standard
+44343035,5e308bec-7277-4cea-a112-f86839f64609,"ATRIPLA - efavirenz, emtricitabine, and tenofovir disoproxil fumarate tablet, film coated",Prescription Drug,Drug,SPL,Valid,Classification
+44352699,ff8c077f-773d-420c-b3b2-11e1246bf967,"ATRIPLA - efavirenz, emtricitabine, and tenofovir disoproxil fumarate tablet, film coated",Prescription Drug,Drug,SPL,Valid,Classification
+44368240,20fe8a0b-95db-4d4c-80e2-54a9126ab845,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+44380478,4b35514f-e925-26b3-e054-00144ff8d46c,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+44396612,9d2d1c24-c03d-44a4-a389-f5c120757280,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+44401230,c4b406d5-68fe-4c31-a0cb-d4408be493cf,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+44412582,69189011801,efavirenz 600 MG / emtricitabine 200 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Invalid,Non-standard
+44448453,70518034100,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Invalid,Non-standard
+44465626,50090098000,efavirenz 600 MG / emtricitabine 200 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Invalid,Non-standard
+44519616,OMOP99679,ATRIPLA,Brand Name,Drug,DPD,Invalid,Non-standard
+44646230,2300699,Atripla [Drug],Drug Product,Drug,DPD,Valid,Non-standard
+44845034,24236029202,efavirenz 600 MG / emtricitabine 200 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Invalid,Non-standard
+44900737,54569580500,efavirenz 600 MG / emtricitabine 200 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Invalid,Non-standard
+44946832,15584010101,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Valid,Non-standard
+44981616,35356006406,efavirenz 600 MG / emtricitabine 200 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Invalid,Non-standard
+45074420,63285001901,efavirenz 600 MG / emtricitabine 200 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Invalid,Non-standard
+45076090,68258199003,efavirenz 600 MG / emtricitabine 200 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Invalid,Non-standard
+45148683,024236292,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 600 mg/1 TABLET, FILM COATED [Atripla]",9-digit NDC,Drug,NDC,Valid,Non-standard
+45241106,53808020801,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Invalid,Non-standard
+45276105,54868564300,efavirenz 600 MG / emtricitabine 200 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Invalid,Non-standard
+45319776,035356064,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 600; 200; 300 mg/1; mg/1; mg/1 TABLET, FILM COATED [Atripla]",9-digit NDC,Drug,NDC,Valid,Non-standard
+45322488,24236029201,efavirenz 600 MG / emtricitabine 200 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Invalid,Non-standard
+45339497,24236029209,efavirenz 600 MG / emtricitabine 200 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Invalid,Non-standard
+45339878,35356006430,efavirenz 600 MG / emtricitabine 200 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Invalid,Non-standard
+45341202,47234010101,efavirenz 600 MG / emtricitabine 200 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Invalid,Non-standard
+45627149,5c6c7ba4-6d42-4e07-a127-b3cf72c866ad,"ATRIPLA - efavirenz, emtricitabine, and tenofovir disoproxil fumarate tablet, film coated",Prescription Drug,Drug,SPL,Valid,Classification
+45641973,076da359-b3d0-44f7-8c0e-662f5b7a8668,"ATRIPLA - efavirenz, emtricitabine, and tenofovir disoproxil fumarate tablet, film coated",Prescription Drug,Drug,SPL,Valid,Classification
+45642821,2e97aa6d-09f7-46df-9499-63db7e9bac35,"ATRIPLA - efavirenz, emtricitabine, and tenofovir disoproxil fumarate tablet, film coated",Prescription Drug,Drug,SPL,Valid,Classification
+45643038,3933c1fc-d27f-435a-a93b-51df960928e0,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+45681415,2096a07e-8601-4bdc-ba5a-338a40cd02e9,"ATRIPLA - efavirenz, emtricitabine, and tenofovir disoproxil fumarate tablet, film coated",Prescription Drug,Drug,SPL,Valid,Classification
+45691221,e8375bd8-5a5c-4d31-90e4-c4906c6e7ee2,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+45706118,969b3a71-6ed6-4604-a2aa-ab8fe3624bcb,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+45707296,ce27fa84-96f2-4e08-b724-12b8610ae087,Atripla,SPL,Drug,SPL,Valid,Non-standard
+45785279,4555b72a-75ae-4fb2-acf8-4be1fa2e5592,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+45812121,242360292,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 600mg/1 ORAL TABLET, FILM COATED [atripla]",9-digit NDC,Drug,NDC,Valid,Non-standard
+45814569,353560064,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",9-digit NDC,Drug,NDC,Valid,Non-standard
+45868523,61958160101,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],11-digit NDC,Drug,NDC,Invalid,Non-standard
+45896536,a1fc74cb-57e5-4f9f-a2b0-9807eb017879,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate 200mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [atripla]",Prescription Drug,Drug,SPL,Valid,Classification
+46303465,01243d39-ccf2-43ce-b9bf-b445b9c22c75,"ATRIPLA - efavirenz, emtricitabine, and tenofovir disoproxil fumarate tablet, film coated",Prescription Drug,Drug,SPL,Valid,Classification
+46321220,7af4b5e9-f5bb-410c-8370-f74e04e7683b,"ATRIPLA ACCESS - efavirenz, emtricitabine, and tenofovir disoproxil fumarate tablet, film coated",Prescription Drug,Drug,SPL,Valid,Classification
+46356776,24236029222,"ATRIPLA - efavirenz, emtricitabine, and tenofovir disoproxil fumarate tablet, film coated",11-digit NDC,Drug,NDC,Valid,Non-standard

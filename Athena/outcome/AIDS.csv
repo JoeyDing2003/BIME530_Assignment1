@@ -1,0 +1,900 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+18702	T54.2X1	Toxic effect of corrosive acids and acid-like substances, accidental (unintentional)	6-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+18703	T54.2X2	Toxic effect of corrosive acids and acid-like substances, intentional self-harm	6-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+18704	T54.2X3	Toxic effect of corrosive acids and acid-like substances, assault	6-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+18705	T54.2X4	Toxic effect of corrosive acids and acid-like substances, undetermined	6-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+19114	T65.5X1	Toxic effect of nitroglycerin and other nitric acids and esters, accidental (unintentional)	6-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+19115	T65.5X2	Toxic effect of nitroglycerin and other nitric acids and esters, intentional self-harm	6-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+19116	T65.5X3	Toxic effect of nitroglycerin and other nitric acids and esters, assault	6-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+19117	T65.5X4	Toxic effect of nitroglycerin and other nitric acids and esters, undetermined	6-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+434256	216750000	Accidental poisoning by acids	Disorder	Condition	SNOMED	Valid	Standard
+435937	51178009	Sudden infant death syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+440359	12313004	Androgen resistance syndrome	Disorder	Condition	SNOMED	Valid	Standard
+507591	1063811000000101	Hearing Therapy/Aural Rehabilitation (with hearing aid) TOM (Therapy Outcome Measure) impairment score	Observable Entity	Measurement	SNOMED	Valid	Standard
+507767	1063841000000100	Hearing Therapy/Aural Rehabilitation (without hearing aid) TOM (Therapy Outcome Measure) impairment score	Observable Entity	Measurement	SNOMED	Valid	Standard
+603026	1153471005	Promotion of mobility using mobility aid	Procedure	Procedure	SNOMED	Valid	Standard
+605284	1010731003	Magnetic implant bone-conduction hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+606688	1148446004	Education about legal aid	Procedure	Observation	SNOMED	Valid	Standard
+607139	1149195002	Assistive powered drinking aid	Physical Object	Device	SNOMED	Valid	Standard
+619335	894143006	Estimated quantity of intake of amino acids via parenteral nutrition in 24 hours	Observable Entity	Observation	SNOMED	Valid	Standard
+619336	894144000	Measured quantity of intake of amino acids via parenteral nutrition in 24 hours	Observable Entity	Measurement	SNOMED	Valid	Standard
+763376	439421000124102	Local AIDS pharmaceutical assistance, APA, not ADAP	Procedure	Observation	SNOMED	Valid	Standard
+1072905	11601000202103	Assisting with visual aids	Procedure	Procedure	SNOMED	Valid	Standard
+1074426	1343305005	AIDS Clinical Trials Group system	Staging / Scales	Measurement	SNOMED	Valid	Standard
+1242270	11661000202104	Assessment of hearing aid use	Procedure	Procedure	SNOMED	Valid	Standard
+1242271	11671000202108	Assessment of visual aid use	Procedure	Procedure	SNOMED	Valid	Standard
+1245364	1300170008	Measured quantity of intake of amino acids via gastroenteral route in 24 hours	Observable Entity	Measurement	SNOMED	Valid	Standard
+1245365	1300171007	Measured quantity of intake of amino acids via intravenous fluids in 24 hours	Observable Entity	Measurement	SNOMED	Valid	Standard
+1449222	1351570003	Autosomal dominant hyperimmunoglobulin M syndrome due to AID deficiency	Disorder	Condition	SNOMED	Valid	Standard
+1449223	1351572006	Autosomal recessive hyperimmunoglobulin M syndrome due to AID deficiency	Disorder	Condition	SNOMED	Valid	Standard
+1574969	T54.2	Toxic effects of corrosive acids and acid-like substances	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1574970	T54.2X	Toxic effects of corrosive acids and acid-like substances	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1575124	T65.5	Toxic effect of nitroglycerin and other nitric acids and esters	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1575125	T65.5X	Toxic effect of nitroglycerin and other nitric acids and esters	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+3520874	656131000000105	Locomotory aid NOS	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3527775	339971000000107	People with human immunodeficiency virus or acquired immune deficiency syndrome	Admin Concept	Type Concept	SNOMED	Invalid	Non-standard
+3527966	346961000000109	Removal of support aids	Undefined	Observation	SNOMED	Invalid	Non-standard
+3528093	348881000000106	Supporting the patient's body with aids	Undefined	Observation	SNOMED	Invalid	Non-standard
+3528094	348891000000108	Supporting the patient's leg with aids	Undefined	Observation	SNOMED	Invalid	Non-standard
+3528095	348901000000109	Supporting the patient's foot with aids	Undefined	Observation	SNOMED	Invalid	Non-standard
+3528602	372581000000105	Bone anchored hearing aid worn	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3528612	373591000000103	Voice output communication aid used	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3530155	514611000000100	Provision of drinking aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3530559	527851000000100	Other walking aid	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3531882	548201000000100	Other urine stoma aid education	Procedure	Observation	SNOMED	Invalid	Non-standard
+3533579	576141000000107	Acids causing toxic effect NOS	Disorder	Condition	SNOMED	Invalid	Non-standard
+3537031	629501000000102	Alimentary aid NOS	Observable Entity	Observation	SNOMED	Invalid	Non-standard
+3537808	640581000000101	Anatomo-physiological aid NOS	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3538542	651051000000106	Other heart aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3539634	667981000000100	Accidental poisoning by acids NOS	Disorder	Condition	SNOMED	Invalid	Non-standard
+3540045	673571000000106	AIDS with viral/chlamydial disease NOS	Disorder	Condition	SNOMED	Invalid	Non-standard
+3542737	712701000000102	Assessment using arthritis impact measurement scale	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3542848	715511000000104	Provision of replacement hearing aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3542849	715521000000105	Provision of replacement hearing aid component	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3543147	729311000000104	Arthritis impact measurement scale score	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3544491	787371000000109	Provision of night time positioning aid	Undefined	Observation	SNOMED	Invalid	Non-standard
+3545154	815721000000103	Shared decision making with patient decision aids	Undefined	Observation	SNOMED	Invalid	Non-standard
+3545155	815741000000105	Shared decision making without patient decision aids	Undefined	Observation	SNOMED	Invalid	Non-standard
+3545925	857741000000108	Provision of replacement hearing aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3545926	857751000000106	Provision of replacement hearing aid	Undefined	Observation	SNOMED	Invalid	Non-standard
+3547019	933171000000104	Malcomess care aims model	Undefined	Observation	SNOMED	Invalid	Non-standard
+3547544	963791000000106	Uses voice output communication aid	Undefined	Observation	SNOMED	Invalid	Non-standard
+3552165	116011000000105	CSF organic acids	Undefined	Observation	SNOMED	Invalid	Non-standard
+3552300	119771000000105	Plasma organic acids	Undefined	Observation	SNOMED	Invalid	Non-standard
+3552340	120831000000101	Fluid sample organic acids	Undefined	Observation	SNOMED	Invalid	Non-standard
+3556340	373711000000100	Visual aid used	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3557358	543251000000107	Serum amino acids NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3557498	560641000000109	Auditory aid NOS	Physical Object	Device	SNOMED	Invalid	Non-standard
+3557499	560741000000101	Excretory control aid NOS	Physical Object	Device	SNOMED	Invalid	Non-standard
+3558903	791131000000101	Essential fatty acids measurement	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3559238	823441000000105	Provision of patient decision aid	Undefined	Observation	SNOMED	Invalid	Non-standard
+3559894	872621000000107	Essential fatty acids	Undefined	Observation	SNOMED	Invalid	Non-standard
+3561415	990591000000108	Does use hearing aid	Undefined	Observation	SNOMED	Invalid	Non-standard
+3565222	711971000000101	Modification of hearing aid mould	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3567170	342501000000101	Family history of acquired immune deficiency syndrome	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3571859	115191000000107	Plasma organic acids	Undefined	Observation	SNOMED	Invalid	Non-standard
+3571908	116251000000104	Fluid sample organic acids	Undefined	Observation	SNOMED	Invalid	Non-standard
+3572142	120591000000102	CSF organic acids	Undefined	Observation	SNOMED	Invalid	Non-standard
+3573366	639251000000101	Other heart aid NOS	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3580183	369171000000102	[V]Bone anchored hearing aid in situ	Undefined	Observation	SNOMED	Invalid	Non-standard
+3582455	560651000000107	Visual aid NOS	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3585523	787321000000105	Provision of toileting aid	Undefined	Observation	SNOMED	Invalid	Non-standard
+3654763	838498002	Able to use VOCA (voice output communication aid)	Clinical Finding	Observation	SNOMED	Valid	Standard
+3655518	865944002	Estimated quantity of intake of amino acids via gastroenteral route in 24 hours	Observable Entity	Observation	SNOMED	Valid	Standard
+3655556	866009009	Estimated quantity of intake of amino acids via intravenous fluids in 24 hours	Observable Entity	Observation	SNOMED	Valid	Standard
+3655558	866012007	Estimated intake of amino acids via parenteral route in 24 hours	Observable Entity	Observation	SNOMED	Invalid	Non-standard
+3661406	674814021000119106	Acute respiratory distress syndrome due to COVID-19	Disorder	Condition	SNOMED	Valid	Standard
+3661617	863961002	Manual hearing aid tester	Physical Object	Device	SNOMED	Valid	Standard
+3663242	870373009	Teaching aid specialist	Social Context	Observation	SNOMED	Valid	Standard
+4001099	100011008	BLUE GROOM AID	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4003875	119954001	Adenoid excision	Procedure	Procedure	SNOMED	Valid	Standard
+4009419	102708006	Aliphatic carboxylic acid, C14-C26	Substance	Drug	SNOMED	Valid	Non-standard
+4010043	102707001	Aliphatic carboxylic acid, C10-C26	Substance	Drug	SNOMED	Valid	Non-standard
+4010145	159103001	Audiovisual aids operator	Social Context	Observation	SNOMED	Valid	Standard
+4011704	112379009	Bovine immunodeficiency virus	Organism	Observation	SNOMED	Valid	Standard
+4012645	165251008	Walking aid use	Observable Entity	Observation	SNOMED	Valid	Standard
+4012671	165252001	No aid for walking	Clinical Finding	Observation	SNOMED	Valid	Standard
+4012672	165256003	Other walking aid	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4013104	165813002	Human immunodeficiency virus antibody test	Procedure	Measurement	SNOMED	Valid	Standard
+4013407	103413000	HIV CDC category C2 (AIDS)	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+4013408	103414006	HIV CDC category C3 (AIDS)	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+4013737	103408004	HIV CDC category A3 (AIDS)	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+4013738	103412005	HIV CDC category C1 (AIDS)	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+4014172	103411003	HIV CDC category B3 (AIDS)	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+4014176	103418009	HIV WHO class IV (AIDS)	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+4015838	170470004	AIDS contact	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+4015845	170492000	AIDS carrier	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+4017157	170530008	Notification of AIDS	Procedure	Observation	SNOMED	Valid	Standard
+4017900	104838009	Organic acids measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4019994	212834004	Acids causing toxic effect NOS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4020572	212832000	Corrosives, acids and caustic alkalis causing toxic effect	Disorder	Observation	SNOMED	Invalid	Non-standard
+4021401	116127001	Magnesium amino acids chelate	Substance	Drug	SNOMED	Valid	Non-standard
+4021508	225672004	Turning off hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+4021510	225678000	Checking hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+4021802	225673009	Listening for feedback whistle of hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+4022257	225991001	Ensuring mobility aid available	Procedure	Procedure	SNOMED	Valid	Standard
+4023203	225675002	Putting on hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+4024755	225427003	Procedures to aid continence	Procedure	Procedure	SNOMED	Valid	Standard
+4026039	225676001	Switching on hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+4026040	225680006	Hearing aid procedure	Procedure	Procedure	SNOMED	Valid	Standard
+4032701	10880008	Practical aid (veterinary)	Social Context	Observation	SNOMED	Valid	Standard
+4033824	109224005	Ethiodized oil	Substance	Device	SNOMED	Valid	Non-standard
+4034568	239059004	KID syndrome	Disorder	Condition	SNOMED	Valid	Standard
+4040266	229611008	Pneumatic post-amputation mobility aid education	Procedure	Observation	SNOMED	Valid	Standard
+4041612	132406005	Aidi dog	Organism	Observation	SNOMED	Invalid	Non-standard
+4042724	166859008	Serum amino acids within reference range	Clinical Finding	Measurement	SNOMED	Valid	Standard
+4043214	228616009	Provision of aids to daily living	Procedure	Procedure	SNOMED	Valid	Standard
+4043216	228620008	Provision of communication aid	Procedure	Procedure	SNOMED	Valid	Standard
+4043934	16810008	AIDS with viral pneumonia	Disorder	Condition	SNOMED	Invalid	Non-standard
+4045279	229026006	Sharing of sex aids	Clinical Finding	Observation	SNOMED	Valid	Standard
+4050049	159739002	First aid attendant	Social Context	Observation	SNOMED	Valid	Standard
+4052045	160681005	Mobile outside with aid	Clinical Finding	Observation	SNOMED	Valid	Standard
+4052477	160683008	Needs walking aid in home	Clinical Finding	Observation	SNOMED	Valid	Standard
+4052958	160680006	Fully mobile	Clinical Finding	Observation	SNOMED	Valid	Standard
+4053890	12591000	Intestinal epithelial cell transport of amino acids	Observable Entity	Observation	SNOMED	Valid	Standard
+4055669	166860003	Serum amino acids outside reference range	Clinical Finding	Measurement	SNOMED	Valid	Standard
+4055670	166887004	Serum amino acids NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4060100	16960003	Amino acid screen	Procedure	Measurement	SNOMED	Valid	Standard
+4064903	171121004	HIV screening	Procedure	Measurement	SNOMED	Valid	Standard
+4071204	2067001	Implantation of electromagnetic hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+4072152	17831001	Free fatty acids measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4074480	224620002	Human aid to communication	Social Context	Observation	SNOMED	Valid	Standard
+4074609	224899006	Walking aid	Physical Object	Device	SNOMED	Valid	Standard
+4075790	223907005	West Midlands	Location	Geography	SNOMED	Valid	Non-standard
+4075812	224900001	Communication aid	Physical Object	Device	SNOMED	Valid	Standard
+4078382	19279009	Fitting of spectacles, low vision aid, single element	Procedure	Procedure	SNOMED	Valid	Standard
+4078481	246088000	Aid	Attribute	Observation	SNOMED	Valid	Non-standard
+4078491	246142008	Optical aid used	Attribute	Observation	SNOMED	Valid	Non-standard
+4079298	277213009	Hearing aid worn	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4079388	183116000	Dental aid	Physical Object	Device	SNOMED	Valid	Standard
+4079390	183123004	Provide head worn hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+4079459	183134001	Visual aid NOS	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4079465	183178005	Locomotory aid NOS	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4079468	183210002	Ileostomy aid education	Procedure	Observation	SNOMED	Valid	Standard
+4079471	183215007	Gastrostomy aid education	Procedure	Observation	SNOMED	Valid	Standard
+4079473	183227005	Excretory control aid NOS	Physical Object	Device	SNOMED	Invalid	Non-standard
+4079496	183366004	Use of bathroom aids	Procedure	Procedure	SNOMED	Valid	Standard
+4079497	183367008	Use of work aids	Procedure	Procedure	SNOMED	Valid	Standard
+4079761	183025008	Alimentary aid	Observable Entity	Observation	SNOMED	Valid	Standard
+4079779	183128008	Auditory aid NOS	Physical Object	Device	SNOMED	Invalid	Non-standard
+4079780	183135000	Mobility aid	Physical Object	Device	SNOMED	Valid	Standard
+4079902	183204002	Excretory control aid	Physical Object	Device	SNOMED	Valid	Standard
+4079933	183365000	Use of kitchen aids	Procedure	Procedure	SNOMED	Valid	Standard
+4082551	183124005	Provide body worn hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+4082552	183125006	Ear fitting hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+4082719	183223009	Other urine stoma aid education	Procedure	Observation	SNOMED	Invalid	Non-standard
+4082746	183029002	Alimentary aid NOS	Observable Entity	Observation	SNOMED	Invalid	Non-standard
+4082893	183126007	Replacement of hearing aid battery	Procedure	Procedure	SNOMED	Valid	Standard
+4082912	183206000	Colostomy aid education	Procedure	Observation	SNOMED	Valid	Standard
+4083012	183268001	Anatomo-physiological aid NOS	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4083042	183368003	Use of indoor mobility aids	Procedure	Procedure	SNOMED	Valid	Standard
+4084191	183364001	Use of aids for daily life	Procedure	Procedure	SNOMED	Valid	Standard
+4085698	281656009	Hearing aid provision	Procedure	Procedure	SNOMED	Valid	Standard
+4085740	243712007	Provision of optical low vision aid - near	Procedure	Procedure	SNOMED	Valid	Standard
+4085905	243710004	Provision of low vision aid	Procedure	Procedure	SNOMED	Valid	Standard
+4085906	243711000	Optical low vision aid provision	Procedure	Procedure	SNOMED	Valid	Standard
+4085908	243737002	Provision of ancillary low vision aid	Procedure	Procedure	SNOMED	Valid	Standard
+4086248	243713002	Provision of magnifier low vision aid - near	Procedure	Procedure	SNOMED	Valid	Standard
+4086251	243719003	Near low vision aid - integral spectacle magnifier	Physical Object	Device	SNOMED	Valid	Standard
+4086252	243723006	Near low vision aid - clip-on spectacle telescope	Physical Object	Device	SNOMED	Valid	Standard
+4086253	243727007	Provision of optical low vision aid - distance	Procedure	Procedure	SNOMED	Valid	Standard
+4086280	183853009	Refer to hearing aid clinic	Procedure	Observation	SNOMED	Valid	Standard
+4086903	243734009	Provision of electronic low vision aid	Procedure	Procedure	SNOMED	Valid	Standard
+4087099	243722001	Near low vision aid - integral spectacle telescope	Physical Object	Device	SNOMED	Valid	Standard
+4087225	243751002	Provision of mobility device	Procedure	Procedure	SNOMED	Valid	Standard
+4087795	246787002	Movement of lids on eye movement	Observable Entity	Observation	SNOMED	Valid	Standard
+4087874	243717001	Provision of spectacle low vision aid - near	Procedure	Procedure	SNOMED	Valid	Standard
+4087875	243720009	Near low vision aid - clip-on spectacle magnifier	Physical Object	Device	SNOMED	Valid	Standard
+4087878	243724000	Near low vision aid - extra cap for telescope	Procedure	Procedure	SNOMED	Valid	Standard
+4087880	243733003	Provision of non-optical low vision aid	Procedure	Procedure	SNOMED	Valid	Standard
+4090595	247568001	Folliculitis of lids	Disorder	Condition	SNOMED	Valid	Standard
+4091886	252627003	Real ear measurement of hearing aid gain	Procedure	Procedure	SNOMED	Valid	Standard
+4094605	250010004	Gait with walking aid - finding	Clinical Finding	Observation	SNOMED	Valid	Standard
+4099762	27419005	Amino acids measurement	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4103970	300050005	Organic acid or derivative	Substance	Drug	SNOMED	Invalid	Non-standard
+4104996	2949005	Diagnostic aid	Pharma/Biol Product	Device	SNOMED	Invalid	Non-standard
+4106374	2961002	Aid car-based care	Location	Observation	SNOMED	Valid	Non-standard
+4106956	257192006	Aid to vision	Physical Object	Device	SNOMED	Valid	Standard
+4110089	18178001	Evaluation for hearing aid and testing	Procedure	Procedure	SNOMED	Valid	Standard
+4110467	286074000	Does air laundry	Clinical Finding	Observation	SNOMED	Valid	Standard
+4110757	285053009	Able to use hearing aid	Clinical Finding	Observation	SNOMED	Valid	Standard
+4110758	285057005	Difficulty using hearing aid	Clinical Finding	Observation	SNOMED	Valid	Standard
+4111051	285052004	Ability to use hearing aid	Observable Entity	Observation	SNOMED	Valid	Standard
+4111052	285055002	Does use hearing aid	Clinical Finding	Observation	SNOMED	Valid	Standard
+4112875	254890008	Adenocarcinoma in situ of cervix	Disorder	Condition	SNOMED	Valid	Standard
+4114625	302291005	Finding of hearing aid	Clinical Finding	Condition	SNOMED	Valid	Standard
+4114863	285054003	Unable to use hearing aid	Clinical Finding	Observation	SNOMED	Valid	Standard
+4114864	285056001	Does not use hearing aid	Clinical Finding	Observation	SNOMED	Valid	Standard
+4115326	287284000	Other heart aid NOS	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4117542	286880007	AIDS with viral/chlamydial disease NOS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4118182	287311000	Other heart aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4121758	287977004	Dilation/incision of cervix - delivery aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4122044	259582002	Unesterified fatty acid	Substance	Drug	SNOMED	Valid	Non-standard
+4122360	234768008	Take impression for speech aid	Procedure	Procedure	SNOMED	Valid	Standard
+4122476	234816005	Insertion of speech aid	Procedure	Procedure	SNOMED	Valid	Standard
+4122552	289066002	Ability to use feeding aid	Observable Entity	Observation	SNOMED	Valid	Standard
+4122553	289067006	Able to use feeding aid	Clinical Finding	Observation	SNOMED	Valid	Standard
+4122554	289068001	Unable to use feeding aid	Clinical Finding	Observation	SNOMED	Valid	Standard
+4125138	289070005	Does not use feeding aid	Clinical Finding	Observation	SNOMED	Valid	Standard
+4125189	304706009	Acceptance of illness scale	Staging / Scales	Measurement	SNOMED	Valid	Standard
+4127002	259544005	Conjugated bile acids	Substance	Drug	SNOMED	Valid	Non-standard
+4127605	306219009	Referral to adult hearing aid service	Procedure	Observation	SNOMED	Valid	Standard
+4127741	306220003	Referral to pediatric hearing aid service	Procedure	Observation	SNOMED	Valid	Standard
+4128027	290039009	Fit ear mold for existing hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+4128060	236406007	Acquired immune deficiency syndrome-related nephropathy	Disorder	Condition	SNOMED	Valid	Standard
+4128683	289069009	Does use feeding aid	Clinical Finding	Observation	SNOMED	Valid	Standard
+4128684	289071009	Difficulty using feeding aid	Clinical Finding	Observation	SNOMED	Valid	Standard
+4129665	290036002	Attention to hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+4130186	236896006	Artificial insemination by donor	Procedure	Procedure	SNOMED	Valid	Standard
+4132680	376228004	Amino acids 8% solution	Pharma/Biol Product	Device	SNOMED	Invalid	Non-standard
+4132941	410885004	Amino acids 6% solution	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4133659	412889004	Fluid sample organic acid measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4135532	412888007	Cerebrospinal fluid organic acid measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4136926	304708005	Arthritis impact measurement scale	Staging / Scales	Measurement	SNOMED	Valid	Standard
+4140175	306246004	Referral to registered hearing aid dispenser	Procedure	Observation	SNOMED	Valid	Standard
+4141705	306218001	Referral to hearing aid service	Procedure	Observation	SNOMED	Valid	Standard
+4142300	306912008	Bone anchored hearing aid	Physical Object	Device	SNOMED	Invalid	Non-standard
+4142678	265988002	Domestic helpers/maids	Social Context	Observation	SNOMED	Valid	Standard
+4142951	264947006	Prescription of optical aid - action	Qualifier Value	Observation	SNOMED	Invalid	Non-standard
+4144138	266722002	Aids for severely handicapped	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4144252	266729006	Visual aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4144650	306913003	Second stage bone anchored hearing aid procedure	Procedure	Procedure	SNOMED	Valid	Standard
+4145392	307942000	Removal of bone anchored hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+4146959	309858006	Orthopedic aid	Physical Object	Device	SNOMED	Valid	Standard
+4148426	266974005	HIV risk lifestyle	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+4149002	310015009	Hearing aid service	Qualifier Value	Observation	SNOMED	Valid	Standard
+4149934	309856005	Handicapped aids	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4150090	310016005	Adult hearing aid service	Qualifier Value	Observation	SNOMED	Valid	Standard
+4150091	310017001	Pediatric hearing aid service	Qualifier Value	Observation	SNOMED	Valid	Standard
+4153195	370875004	Assistive device education	Procedure	Observation	SNOMED	Valid	Standard
+4153445	268813000	Fetal or neonatal effect of destructive operation to aid delivery	Disorder	Condition	SNOMED	Invalid	Non-standard
+4154013	272182005	Aid to hearing	Physical Object	Device	SNOMED	Invalid	Non-standard
+4154736	283993007	Use of memory retrieval aids	Observable Entity	Observation	SNOMED	Valid	Standard
+4155238	269862009	Measurement of serum amino acid level	Procedure	Measurement	SNOMED	Valid	Standard
+4157380	273454004	Fear of AIDS scale	Staging / Scales	Measurement	SNOMED	Valid	Standard
+4157532	272264002	Speech aid	Physical Object	Device	SNOMED	Valid	Standard
+4159408	273264006	Alcohol dependence scale	Staging / Scales	Measurement	SNOMED	Valid	Standard
+4164664	273254002	Abbreviated injury scale	Staging / Scales	Measurement	SNOMED	Valid	Standard
+4164666	273263000	AIDS Risk Behavior Knowledge Test	Staging / Scales	Measurement	SNOMED	Valid	Standard
+4164667	273281002	Arthritis impact measurement scale I	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard
+4165155	273561002	Learning development aids - handwriting assessment	Staging / Scales	Measurement	SNOMED	Valid	Standard
+4165181	293371008	Intravenous nutrition (amino acids) adverse reaction	Disorder	Observation	SNOMED	Valid	Standard
+4167594	273256000	Abnormal involuntary movement scale	Staging / Scales	Measurement	SNOMED	Valid	Standard
+4169192	294908002	Intravenous nutrition (amino acids) allergy	Disorder	Condition	SNOMED	Invalid	Non-standard
+4171124	276665006	Congenital acquired immune deficiency syndrome	Disorder	Condition	SNOMED	Valid	Standard
+4173128	422875005	Paraprofessional/aide care surveillance	Procedure	Observation	SNOMED	Valid	Standard
+4178378	363751009	Body worn hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+4180861	53254000	Metabolic acidosis, IAG, reduced excretion of inorganic acids	Disorder	Condition	SNOMED	Valid	Standard
+4181653	363752002	Head worn hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+4183058	43362002	Fitting of hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+4185676	54893007	Feline immunodeficiency virus	Organism	Observation	SNOMED	Valid	Standard
+4186046	413503001	Amino acids 6.9% injection solution	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4186235	414604009	Leukoplakia of tongue associated with HIV disease	Disorder	Condition	SNOMED	Valid	Standard
+4188151	414376003	Hairy leukoplakia of tongue associated with HIV disease	Disorder	Condition	SNOMED	Valid	Standard
+4189921	375884001	Amino acids 5% solution	Pharma/Biol Product	Device	SNOMED	Invalid	Non-standard
+4190578	394889008	Hearing aid requested	Context-dependent	Observation	SNOMED	Valid	Standard
+4192895	394993001	Drug compliance aid requested	Context-dependent	Observation	SNOMED	Valid	Standard
+4193562	313152005	Seen in hearing aid clinic	Clinical Finding	Observation	SNOMED	Valid	Standard
+4194495	6762003	Impaired intestinal epithelial cell transport of amino acids	Clinical Finding	Condition	SNOMED	Valid	Standard
+4195286	79085007	Bovine acquired immune deficiency syndrome	Disorder	Condition	SNOMED	Invalid	Non-standard
+4195559	79241002	Simian immunodeficiency virus	Organism	Observation	SNOMED	Valid	Standard
+4195694	67782005	Acute respiratory distress syndrome	Disorder	Condition	SNOMED	Valid	Standard
+4196437	313024004	Optical low vision aid	Physical Object	Device	SNOMED	Valid	Standard
+4197301	313036005	Spectacle near vision aid	Physical Object	Device	SNOMED	Valid	Standard
+4198862	51642000	Adenocarcinoma in situ	Morph Abnormality	Observation	SNOMED	Valid	Standard
+4199110	301569004	Ability to mobilize using mobility aids	Observable Entity	Observation	SNOMED	Valid	Standard
+4199111	301571004	Unable to mobilize using mobility aids	Clinical Finding	Observation	SNOMED	Valid	Standard
+4199112	301572006	Does mobilize using aids	Clinical Finding	Observation	SNOMED	Valid	Standard
+4199113	301573001	Does not mobilize using mobility aids	Clinical Finding	Observation	SNOMED	Valid	Standard
+4199114	301574007	Difficulty mobilizing using mobility aids	Clinical Finding	Observation	SNOMED	Valid	Standard
+4199294	5264008	Total bile acids measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4199699	302171008	Adjust hearing aid settings	Procedure	Procedure	SNOMED	Valid	Standard
+4200353	301570003	Able to mobilize using mobility aids	Clinical Finding	Observation	SNOMED	Valid	Standard
+4201026	315044008	First aid education	Procedure	Observation	SNOMED	Valid	Standard
+4201128	51294009	Metabolic acidosis, IAG, accumulation of organic acids	Disorder	Condition	SNOMED	Valid	Standard
+4201627	315019000	Aseptic meningitis due to human immunodeficiency virus infection	Disorder	Condition	SNOMED	Valid	Standard
+4205228	309421002	Hearing aid dispenser	Social Context	Provider	SNOMED	Valid	Non-standard
+4206986	439404009	Binaural electroacoustic evaluation for hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+4207337	312345006	Surgical aid	Physical Object	Device	SNOMED	Valid	Standard
+4207930	312631009	Provision of feeding aid	Procedure	Procedure	SNOMED	Valid	Standard
+4208233	313025003	Hearing aid battery	Physical Object	Device	SNOMED	Valid	Standard
+4208631	311966007	Corrosive, acid or caustic alkali	Substance	Drug	SNOMED	Invalid	Non-standard
+4209058	441207001	Position communication aid near subject	Procedure	Procedure	SNOMED	Valid	Standard
+4209673	311884008	External memory aids training	Procedure	Observation	SNOMED	Valid	Standard
+4210343	326370009	Amino acids peritoneal dialysis solution	Pharma/Biol Product	Device	SNOMED	Valid	Standard
+4210591	312041008	Operative aid	Physical Object	Device	SNOMED	Valid	Standard
+4211335	413504007	Amino acids 8.5% injection solution	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4211956	416729007	Neutropenia with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4214961	392562007	At increased risk for sudden infant death syndrome	Clinical Finding	Observation	SNOMED	Valid	Standard
+4217065	417345002	Amino acids 11.4% solution	Pharma/Biol Product	Device	SNOMED	Invalid	Non-standard
+4217863	41876002	Other maids and related housekeeping service workers	Social Context	Observation	SNOMED	Invalid	Non-standard
+4220603	420281004	Skin rash with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4221489	420721002	Acquired immunodeficiency syndrome-associated disorder	Disorder	Condition	SNOMED	Valid	Standard
+4221503	420787001	Pneumococcal pneumonia with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4221607	420818005	Mycobacteriosis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4221911	420900006	Fatigue with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4221939	421009000	Prion disease associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4222044	335018002	Inhaler aid device	Physical Object	Device	SNOMED	Valid	Standard
+4222062	421047005	Candidiasis of lung with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4222094	421184005	Septicemia associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4222224	421230000	Hepatomegaly with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4222250	420244003	Encephalitis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4222383	420321004	Intestinal malabsorption with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4222402	420384005	Hematopoietic system disease with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4222405	420395004	Acute endocarditis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4222712	421403008	Cryptococcosis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4222717	421415007	Subacute adenoviral encephalitis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4223031	420543008	Anemia associated with AIDS	Disorder	Condition	SNOMED	Valid	Standard
+4223032	420544002	Bacterial pneumonia with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4223276	420718004	Central nervous system demyelinating disease with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4223573	421792005	Cryptosporidiosis associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4223585	421837008	Subcutaneous tissue disease associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4223597	421883002	Strongyloidiasis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4223736	421979003	Dermatophytosis associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4223738	421983003	Noninfectious gastroenteritis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4223918	420308006	Retinal vascular changes with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4224032	336189006	Tracheostomy breathing aid	Physical Object	Device	SNOMED	Valid	Standard
+4224078	420452002	Myelopathy with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4224096	420524008	Kaposi's sarcoma with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4224240	421023003	Presenile dementia with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4224378	346532000	Intravenous nutrition (amino acids)	Pharma/Biol Product	Device	SNOMED	Valid	Standard
+4224409	421218006	Slow virus infection associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4224425	421272004	Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4224553	421312009	Agranulocytosis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4224566	421394009	Skin disorder with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4224578	421431004	Nocardiosis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4224740	422337001	Coccidioidomycosis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4224860	420614009	Organic dementia with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4225017	420764009	Salmonella infection with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4225027	420801006	Malaise with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4225170	420945005	Histoplasmosis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4225187	420991002	Herpes simplex associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4225193	421020000	Microsporidiosis associated with acquired immunodeficiency syndrome	Disorder	Condition	SNOMED	Valid	Standard
+4225318	421508002	Viral pneumonia with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4225319	421510000	Isosporiasis associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4225643	421874007	Respiratory disorder with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4225810	421102007	Aplastic anemia with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4225989	421454008	Infectious gastroenteritis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4226110	421998001	Central nervous disorder with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4226111	422003001	Cachexia associated with AIDS	Clinical Finding	Condition	SNOMED	Valid	Standard
+4226120	422031005	Opportunistic mycosis associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4226260	422241000	Cytomegalic inclusion disease associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4226357	422282000	Malignant neoplasm with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4226388	420302007	Reticulosarcoma with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4226502	420403001	Pneumocystosis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4226629	420549007	Salivary gland disease with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4226631	420554003	Progressive multifocal leukoencephalopathy with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4226648	420615005	Candiasis of skin AND/OR nails associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4226658	421571007	Tuberculosis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4226662	421597001	Polyneuropathy with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4226787	421695000	Abnormal weight loss associated with AIDS	Clinical Finding	Observation	SNOMED	Valid	Standard
+4226790	421706001	Blindness with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4226792	421710003	Candidiasis of mouth with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4226905	421766003	Thrombocytopenia with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4226925	421835000	Immunoblastic lymphoma associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4227053	421929001	Myocarditis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4227072	420658009	Radiculitis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4227076	420687005	Ill-defined intestinal infection associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4227077	420691000	Nutritional deficiency with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4227200	420749009	Hypersplenism associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4227205	420774007	Organic brain syndrome with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4227229	420877009	Dermatomycosis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4227350	420938005	Subacute endocarditis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4227380	421077004	Disseminated candidiasis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4227511	421977001	Lymphadenopathy associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4227519	422012004	Neuritis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4227531	422074008	Coccidiosis associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4227539	422127002	Herpes zoster with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4227649	422159009	Non-arthropod-borne viral disease associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4227779	353889009	Ethyl esters of iodized fatty acids	Pharma/Biol Product	Device	SNOMED	Invalid	Non-standard
+4227821	421154002	Fever associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4227834	421189000	Deficiency anemia associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4227957	421214008	Other disorder of immune system associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4227969	421283008	Primary lymphoma of brain with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4227974	421315006	Myelitis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4228098	347569008	Adsorbed diphtheria+tetanus vaccine injection suspension vial	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4228115	421460008	Retinopathy with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4228117	421473007	Hypovolemia associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4228133	421529006	Dementia with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4228272	421660003	Failure to thrive in infant with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4228274	421666009	Toxoplasmosis associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4228277	421671002	Pneumonia with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4228290	421708000	Infective arthritis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4228440	421827003	Encephalopathy with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4228444	421851008	Acquired hemolytic anemia associated with AIDS	Disorder	Condition	SNOMED	Valid	Standard
+4228604	422052002	Burkitt's lymphoma associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4228612	422089004	Encephalomyelitis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4228745	422136003	Neuralgia with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4228754	422177004	Dyspnea with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4228757	422189002	Low vision with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4228760	422194002	Hyperhidrosis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+4228776	422260007	Splenomegaly associated with AIDS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4230396	359791000	AIDS with dermatomycosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+4230685	353252003	Diphtheria (adult) low dose vaccine injection suspension vial	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4231167	360311009	Electronic low vision aid	Physical Object	Device	SNOMED	Valid	Standard
+4231496	439264005	Taking an impression for creation of custom speech aid prosthesis	Procedure	Procedure	SNOMED	Valid	Standard
+4232811	360242001	Hearing aid bone anchor	Physical Object	Device	SNOMED	Valid	Standard
+4232821	360288007	Optical near vision aid	Physical Object	Device	SNOMED	Valid	Standard
+4232824	360301002	Aids to daily living	Physical Object	Device	SNOMED	Valid	Standard
+4232825	360305006	Feeding aid	Physical Object	Device	SNOMED	Valid	Standard
+4232826	360309000	Optical distance vision aid	Physical Object	Device	SNOMED	Valid	Standard
+4235632	360285005	Low vision aid	Physical Object	Device	SNOMED	Valid	Standard
+4235636	360310005	Non-optical low vision aid	Physical Object	Device	SNOMED	Valid	Standard
+4235637	360312002	Ancillary low vision aid	Physical Object	Device	SNOMED	Valid	Standard
+4236138	406528008	AIDS Clinical Trial Group	Social Context	Observation	SNOMED	Valid	Non-standard
+4237443	5810003	HIV infection with infection by another virus	Disorder	Condition	SNOMED	Invalid	Non-standard
+4241524	91923005	AIDS virus infection associated with pregnancy	Disorder	Condition	SNOMED	Invalid	Non-standard
+4243917	38183002	Preparation of radiation therapy aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4245026	59374000	Traveler's aid clinic	Location	Observation	SNOMED	Valid	Non-standard
+4246497	6012004	Hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+4247009	6130009	Surgical exposure of impacted or unerupted tooth to aid eruption	Procedure	Procedure	SNOMED	Valid	Standard
+4247762	73095008	Feline acquired immune deficiency syndrome	Disorder	Condition	SNOMED	Invalid	Non-standard
+4247881	409348001	Amino acids 8.5% solution	Pharma/Biol Product	Device	SNOMED	Invalid	Non-standard
+4247882	409349009	Amino acids 10% solution	Pharma/Biol Product	Device	SNOMED	Invalid	Non-standard
+4248001	409470002	Amino acids 15% solution	Pharma/Biol Product	Device	SNOMED	Invalid	Non-standard
+4250474	73265009	Nursing aid	Social Context	Provider	SNOMED	Valid	Non-standard
+4251013	409347006	Amino acids 7% solution	Pharma/Biol Product	Device	SNOMED	Invalid	Non-standard
+4252592	74405003	Hemoglobin G-Waimanalo	Substance	Drug	SNOMED	Valid	Non-standard
+4258004	440156003	Custom speech aid prosthesis	Physical Object	Device	SNOMED	Valid	Standard
+4258074	410833001	Amino acids 3%/glycerin 3% injection solution 1L	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4258075	410836009	Amino acids 20% injection solution	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4258510	409113002	Pediatric AIDS Clinical Trial Group	Social Context	Observation	SNOMED	Valid	Non-standard
+4258787	409466005	Amino acids 5.4% solution	Pharma/Biol Product	Device	SNOMED	Invalid	Non-standard
+4261083	440712009	Construction of custom speech aid prosthesis	Procedure	Procedure	SNOMED	Valid	Standard
+4261575	411969004	Amino acids 8% injection solution	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4261935	441120009	Family history of acquired immune deficiency syndrome	Context-dependent	Observation	SNOMED	Valid	Standard
+4264096	36305009	Very long chain fatty acids measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4265117	364824008	Finding related to ability to use feeding aid	Clinical Finding	Observation	SNOMED	Valid	Standard
+4266144	365112008	Walking aid use - finding	Clinical Finding	Observation	SNOMED	Valid	Standard
+4266598	36353008	Audio-visual and other teaching aid specialist	Social Context	Observation	SNOMED	Invalid	Non-standard
+4267414	62479008	AIDS	Disorder	Condition	SNOMED	Valid	Standard
+4268335	63002004	Initial psychiatric interview with data recording by aide or social worker	Procedure	Procedure	SNOMED	Valid	Standard
+4269627	62246005	AIDS-like syndrome	Disorder	Condition	SNOMED	Invalid	Non-standard
+4271250	365111001	Finding related to ability to mobilize using mobility aids	Clinical Finding	Observation	SNOMED	Valid	Standard
+4272859	365240006	Finding related to ability to use hearing aid	Clinical Finding	Observation	SNOMED	Valid	Standard
+4275356	365905000	Use of memory retrieval aids - finding	Clinical Finding	Observation	SNOMED	Valid	Standard
+4278092	66049007	Simian acquired immune deficiency syndrome	Disorder	Condition	SNOMED	Invalid	Non-standard
+4278993	65201004	Supervision of psychiatric therapist or aide	Procedure	Procedure	SNOMED	Valid	Standard
+4293151	400724000	Amino acids 10% injection solution 500mL bottle	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4294515	76166008	Practical aid (pharmacy)	Social Context	Provider	SNOMED	Valid	Non-standard
+4295046	385783005	Home health aide service management	Procedure	Procedure	SNOMED	Valid	Standard
+4295187	385902009	Hearing aid care education	Procedure	Observation	SNOMED	Valid	Standard
+4295188	385903004	Hearing aid care management	Procedure	Procedure	SNOMED	Valid	Standard
+4295262	76503006	Amino acids measurement, quantitative, urine	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4295602	403796005	BIDS brittle hair-impaired intellect-decreased fertility-short stature syndrome	Disorder	Condition	SNOMED	Valid	Standard
+4296804	385781007	Home health aide service	Procedure	Observation	SNOMED	Valid	Standard
+4296805	385782000	Home health aide service education	Procedure	Observation	SNOMED	Valid	Standard
+4296936	385901002	Hearing aid care assessment	Procedure	Procedure	SNOMED	Valid	Standard
+4299361	77070006	AIDS with Salmonella infection	Disorder	Condition	SNOMED	Invalid	Non-standard
+4300727	385780008	Home health aide service assessment	Procedure	Procedure	SNOMED	Valid	Standard
+4301411	403834003	Hyperimmunoglobulinemia D with periodic fever	Disorder	Condition	SNOMED	Valid	Standard
+4303413	386308007	First aid	Procedure	Procedure	SNOMED	Valid	Standard
+4308486	423162003	Paraprofessional/aide care	Procedure	Observation	SNOMED	Valid	Standard
+4308511	390967001	Hearing aid problem	Clinical Finding	Condition	SNOMED	Valid	Standard
+4308917	424186008	Paraprofessional/aide care education, guidance, counseling	Procedure	Observation	SNOMED	Valid	Standard
+4310226	216754009	Accidental poisoning by acids NOS	Disorder	Condition	SNOMED	Invalid	Non-standard
+4313760	423650001	Paraprofessional/aide care case management	Procedure	Procedure	SNOMED	Valid	Standard
+4314426	87117006	HIV infection with acute lymphadenitis	Disorder	Condition	SNOMED	Valid	Standard
+4327101	429645004	One stage insertion of fixture for bone anchored hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+4330155	224577009	Healthcare assistant	Social Context	Provider	SNOMED	Valid	Non-standard
+4336148	232183005	Insertion of bone anchors for subcutaneous bone anchored hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+4340395	235915002	Synthetic defect of bile acids	Disorder	Condition	SNOMED	Valid	Standard
+4346943	241343007	Tc99m-IDA derivative study	Procedure	Procedure	SNOMED	Valid	Standard
+4347666	243181003	Expired air ventilation with airway aid	Procedure	Procedure	SNOMED	Valid	Standard
+35225148	Z46.1	Encounter for fitting and adjustment of hearing aid	4-char billing code	Procedure	ICD10CM	Valid	Non-standard
+35610219	1090661000000105	Assessment using ADS (Alcohol Dependence Scale)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+35610220	1090671000000103	ADS (Alcohol Dependence Scale) total score	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+35610231	1090791000000106	Assessment using AIDS (Acquired Immunodeficiency Syndrome) Risk Behavior Knowledge Test	Procedure	Procedure	SNOMED	Invalid	Non-standard
+35610232	1090801000000105	AIDS (Acquired Immunodeficiency Syndrome) Risk Behavior Knowledge Test total score	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+35622832	765051008	Aid prescription record	Record Artifact	Type Concept	SNOMED	Valid	Non-standard
+35624788	767699006	Mouldable first aid limb splint	Physical Object	Device	SNOMED	Valid	Standard
+35625676	768730001	Home health aide	Social Context	Provider	SNOMED	Valid	Non-standard
+36674252	771119002	Infection caused by Coccidia co-occurrent with acquired immunodeficiency syndrome	Disorder	Condition	SNOMED	Valid	Standard
+36674253	771126002	Infection caused by Toxoplasma gondii co-occurrent with acquired immunodeficiency syndrome	Disorder	Condition	SNOMED	Valid	Standard
+36674254	771127006	Infection caused by Isospora co-occurrent with acquired immunodeficiency syndrome	Disorder	Condition	SNOMED	Valid	Standard
+36674486	774091000	Assessment using Alcohol Dependence Scale	Procedure	Measurement	SNOMED	Valid	Non-standard
+36674487	774092007	ADS (Alcohol Dependence Scale) total score	Observable Entity	Measurement	SNOMED	Valid	Non-standard
+36683342	781146004	Assessment using AIDS Risk Behavior Knowledge Test	Procedure	Measurement	SNOMED	Valid	Non-standard
+36683343	781147008	AIDS Risk Behavior Knowledge Test total score	Observable Entity	Measurement	SNOMED	Valid	Non-standard
+36685265	1095871000000109	Assessment using AIMS (Abnormal Involuntary Movement Scale)	Procedure	Measurement	SNOMED	Valid	Non-standard
+36685266	1095881000000106	AIMS (Abnormal Involuntary Movement Scale) total score	Observable Entity	Measurement	SNOMED	Valid	Non-standard
+36714683	720011008	Does use walking aid when standing alone	Clinical Finding	Observation	SNOMED	Valid	Standard
+37016978	713146000	Referral to health aide service	Procedure	Observation	SNOMED	Valid	Standard
+37017718	714043004	Hearing aid remote control application software	Physical Object	Device	SNOMED	Valid	Standard
+37018282	714735004	Eye dropper bottle aid	Physical Object	Device	SNOMED	Valid	Standard
+37109653	723421006	Tympanic membrane contact hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+37109654	723423009	Tympanic membrane contact hearing aid light transducer	Physical Object	Device	SNOMED	Valid	Standard
+37109655	723424003	Tympanic membrane contact hearing aid tympanic transducer	Physical Object	Device	SNOMED	Valid	Standard
+37117160	723422004	Tympanic membrane contact hearing aid sound processor	Physical Object	Device	SNOMED	Valid	Standard
+37151560	1251626000	Immobilization of subject using aids	Procedure	Procedure	SNOMED	Valid	Standard
+37151569	1254716000	Provision of aid for disability	Procedure	Procedure	SNOMED	Valid	Standard
+37151570	1254717009	Provision of aid for severe disability	Procedure	Procedure	SNOMED	Valid	Standard
+37153135	1208608001	Estimated quantity of intake of nonessential amino acids in 24 hours	Observable Entity	Observation	SNOMED	Valid	Standard
+37153137	1208610004	Measured quantity of intake of essential amino acids in 24 hours	Observable Entity	Measurement	SNOMED	Valid	Standard
+37153138	1208611000	Estimated quantity of intake of essential amino acids in 24 hours	Observable Entity	Observation	SNOMED	Valid	Standard
+37153139	1208612007	Estimated quantity of intake of amino acids in 24 hours	Observable Entity	Observation	SNOMED	Valid	Standard
+37153140	1208613002	Measured quantity of intake of amino acids in 24 hours	Observable Entity	Measurement	SNOMED	Valid	Standard
+37156622	1179050004	Measured quantity of intake of amino acids	Observable Entity	Observation	SNOMED	Valid	Standard
+37156624	1179052007	Estimated quantity of intake of amino acids	Observable Entity	Observation	SNOMED	Valid	Standard
+37160449	1162436000	Referral to legal aid	Procedure	Observation	SNOMED	Valid	Standard
+37164815	1234906009	46,XX ovotesticular disorder of sex development	Disorder	Condition	SNOMED	Valid	Standard
+37166798	1260096003	AIDS (acquired immunodeficiency syndrome) wasting syndrome	Disorder	Condition	SNOMED	Valid	Standard
+37168080	1269539009	Antidepressant discontinuation syndrome	Disorder	Condition	SNOMED	Valid	Standard
+37170916	30511000237100	Bile acids, total molar concentration in plasma	Observable Entity	Measurement	SNOMED	Valid	Standard
+37172875	55181000237107	Fatty acids, free molar concentration in plasma	Observable Entity	Measurement	SNOMED	Valid	Standard
+37173791	661321000124102	Education about home health aide program	Procedure	Observation	SNOMED	Valid	Standard
+37173905	663041000124106	Referral to home health aide program	Procedure	Observation	SNOMED	Valid	Standard
+37311563	789342005	Estimated total quantity of intake of trans fatty acids in 24 hours	Observable Entity	Observation	SNOMED	Valid	Standard
+37392583	1005941000000109	Essential fatty acids profile	Observable Entity	Measurement	SNOMED	Valid	Non-standard
+37393797	1021741000000100	Plasma organic acids	Observable Entity	Measurement	SNOMED	Valid	Non-standard
+37393836	1022241000000100	Urine organic acids	Observable Entity	Measurement	SNOMED	Valid	Standard
+37393837	1022251000000102	Urine amino acids	Observable Entity	Measurement	SNOMED	Valid	Non-standard
+37393999	1024361000000100	CSF (cerebrospinal fluid) organic acids	Observable Entity	Measurement	SNOMED	Valid	Non-standard
+37394014	1024741000000102	Provision of VOCA (voice output communication aid)	Procedure	Procedure	SNOMED	Valid	Standard
+37394019	1024801000000106	Provision of portable communication aid	Procedure	Procedure	SNOMED	Valid	Standard
+37396480	716307002	Head-worn bone-conduction hearing aid implantable magnet	Physical Object	Device	SNOMED	Valid	Standard
+37396751	716666001	Head-worn bone-conduction hearing aid base plate	Physical Object	Device	SNOMED	Valid	Standard
+37396828	716776005	Assessment using Assessment of Intelligibility of Dysarthric Speech	Procedure	Measurement	SNOMED	Valid	Non-standard
+37396892	716873009	Assessment of Intelligibility of Dysarthric Speech	Staging / Scales	Measurement	SNOMED	Valid	Standard
+37396893	716874003	Assessment of Intelligibility of Dysarthric Speech score	Observable Entity	Measurement	SNOMED	Valid	Non-standard
+37397229	717295005	First aid limb splint	Physical Object	Device	SNOMED	Valid	Standard
+37397641	718332009	Assessment using Acceptance of Illness Scale	Procedure	Measurement	SNOMED	Valid	Non-standard
+37397670	718379009	Acceptance of Illness Scale score	Observable Entity	Measurement	SNOMED	Valid	Non-standard
+37398360	999002431000000102	AIDS (acquired immune deficiency syndrome) defining illness for adults simple reference set	Model Comp	Metadata	SNOMED	Invalid	Non-standard
+37399592	991581000000101	Fluid sample organic acids	Observable Entity	Measurement	SNOMED	Valid	Non-standard
+37402358	D81.82	Activated Phosphoinositide 3-kinase Delta Syndrome [APDS]	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+40260457	178257007	AIDS virus with acute lymphadenitis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40268741	105944002	Diagnostic aid, serum, toxoid AND/OR vaccine	Substance	Observation	SNOMED	Invalid	Non-standard
+40269491	10479001	AIDS with other disorders involving the immune mechanism	Disorder	Condition	SNOMED	Invalid	Non-standard
+40273992	113027008	Dispensing of unlisted low vision aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40273996	11303005	AIDS with organic brain syndrome	Disorder	Condition	SNOMED	Invalid	Non-standard
+40276909	111881002	AIDS with disseminated candidiasis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40276910	111882009	AIDS with disseminated candidiasis of other and unspecified sites	Disorder	Condition	SNOMED	Invalid	Non-standard
+40276911	111883004	AIDS with other and unspecified mycobacteriosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40276912	111884005	AIDS with mycobacteriosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40276913	111885006	AIDS with pneumonia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40276914	111886007	AIDS with or without other conditions	Disorder	Condition	SNOMED	Invalid	Non-standard
+40276915	111887003	AIDS with specified diseases of the central nervous system	Disorder	Condition	SNOMED	Invalid	Non-standard
+40276916	111888008	AIDS with other specified conditions	Disorder	Condition	SNOMED	Invalid	Non-standard
+40276917	111889000	Other AIDS virus infection	Disorder	Condition	SNOMED	Invalid	Non-standard
+40282030	1170003	AIDS with hyperhidrosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40285386	12019006	AIDS with rash	Disorder	Condition	SNOMED	Invalid	Non-standard
+40287885	11837006	AIDS with subacute adenoviral encephalitis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40295324	12741002	AIDS with dementia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40298405	13452004	AIDS with subacute myocarditis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40299181	138071000	Mobile outside with aid	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40299183	138073002	Needs walking aid in home	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40299569	13556003	AIDS with hepatomegaly	Disorder	Condition	SNOMED	Invalid	Non-standard
+40299981	14249000	AIDS with candidiasis of mouth	Disorder	Condition	SNOMED	Invalid	Non-standard
+40300596	142661009	Walking aid use	Observable Entity	Observation	SNOMED	Invalid	Non-standard
+40300597	142662002	No aid for walking	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40300601	142666004	Other walking aid	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40300690	1362002	AIDS with neuralgia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40300749	136286008	Audiovisual aids operator	Social Context	Observation	SNOMED	Invalid	Non-standard
+40303744	137021001	(Domestic: [housekeeper] or [helpers &/or maids]) or (school helper)	Social Context	Observation	SNOMED	Invalid	Non-standard
+40304224	137045002	First aid attendant	Social Context	Observation	SNOMED	Invalid	Non-standard
+40307770	144137004	Serum amino acids normal	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+40307771	144138009	Serum amino acids abnormal	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+40307800	144164003	Serum amino acids NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40308226	149977006	Dilation/incision of cervix - delivery aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40310502	144758002	Urine organic acids (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40310503	144759005	(Urine amino acids) or (aminoaciduria)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40313524	149211007	Other heart aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40313527	149214004	Other heart aid NOS	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40313685	15118008	AIDS with reticulosarcoma	Disorder	Condition	SNOMED	Invalid	Non-standard
+40315012	147723008	HIV contact (& [AIDS])	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40315036	147745009	AIDS carrier	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40315079	147784004	Notification of AIDS	Procedure	Observation	SNOMED	Invalid	Non-standard
+40316683	157689007	Corrosives, acids and caustic alkalis causing toxic effect	Disorder	Condition	SNOMED	Invalid	Non-standard
+40316686	157691004	Acids causing toxic effect	Disorder	Condition	SNOMED	Invalid	Non-standard
+40317370	152082009	Refer to hearing aid clinic	Procedure	Observation	SNOMED	Invalid	Non-standard
+40317950	152251000	Provision of communication aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40317951	152252007	Provision of feeding aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40319124	15427004	AIDS with specified infection, NEC	Disorder	Condition	SNOMED	Invalid	Non-standard
+40319627	154367007	(AIDS with viral/chlamydial dis NOS) or (ornithosis) or (trachoma)	Disorder	Condition	SNOMED	Invalid	Non-standard
+40321527	15884001	AIDS with cryptococcosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40322450	157000	AIDS with low vision	Disorder	Condition	SNOMED	Invalid	Non-standard
+40322548	151305001	Alimentary aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40322553	151310002	Alimentary aid NOS	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40322555	151311003	Aids for severely handicapped	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40322558	151314006	Severely handicapped aid NOS (& provision)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40322636	151385004	Anatomo-physiological assistance (& [orthopedic aid])	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40322637	151386003	Dental aid	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323041	151393004	Dental aid NOS & (fitting)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40323042	151394005	(Auditory aid) or (provision of)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40323043	151395006	Provide head worn hearing aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40323044	151396007	Provide body worn hearing aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40323045	151397003	Ear fitting hearing aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40323046	151398008	Replace hearing aid battery	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40323051	151401006	Auditory aid NOS	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323052	151402004	(Visual aid) or (provision of visual aid (& spectacles))	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323059	151409008	Visual aid NOS	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323061	151410003	Mobility aids	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323063	151412006	Surgical aid (& footwear (& [boots] or [shoes]))	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323069	151418005	Locomotory aid NOS	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323070	151419002	Other orthopedic aid (& provision)	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323071	151420008	Surgical appliance aid (& provision)	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323073	151421007	Maintenance of posture aid (& provision)	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323074	151422000	Correction of posture aid (& provision)	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323080	151428001	Other orthopedic aid NOS (& provision)	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323081	151429009	Excretory control aid	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323082	151430004	Colostomy aid training	Procedure	Observation	SNOMED	Invalid	Non-standard
+40323087	151434008	Ileostomy aid training	Procedure	Observation	SNOMED	Invalid	Non-standard
+40323091	151438006	Gastrostomy aid training	Procedure	Observation	SNOMED	Invalid	Non-standard
+40323100	151446007	Other urine stoma aid training	Procedure	Observation	SNOMED	Invalid	Non-standard
+40323104	151450000	Excretory control aid NOS	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323141	151483007	Communication aid	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323147	151489006	Anatomo-physiological aid NOS	Physical Object	Device	SNOMED	Invalid	Non-standard
+40323582	151523008	Instruction in the use of aids	Procedure	Observation	SNOMED	Invalid	Non-standard
+40323662	151596006	Daily life rehabilitation (& aids - daily life use)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40323663	151597002	Use of aids for daily life	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40323664	151598007	Use of kitchen aids	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40323665	151599004	Use of bathroom aids	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40323666	151600001	Use of work aids	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40323669	151601002	Use of indoor mobility aids	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40323797	153399005	Seen in hearing aid clinic	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40325515	159722004	(Domestic: [housekeeper] or [helpers &/or maids]) or (school helper)	Social Context	Observation	SNOMED	Invalid	Non-standard
+40327610	16437002	AIDS with tuberculosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40330860	160973006	([HIV] or [AIDS] risk lifestyle) or (multiple sexual partners)	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40338270	172663003	Insertion of bone anchors for subcutaneous bone anchored hearing aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40340382	167534001	Urine organic acids (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40340383	167535000	(Urine amino acids) or (aminoaciduria)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40345078	266200005	(AIDS with viral/chlamydial dis NOS) or (ornithosis) or (trachoma)	Disorder	Condition	SNOMED	Invalid	Non-standard
+40349877	26118004	AIDS with acute endocarditis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40356230	268593006	HIV contact (& [AIDS])	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40359607	281655008	Aid to hearing	Physical Object	Device	SNOMED	Invalid	Non-standard
+40364496	28077005	AIDS with neuritis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40373839	29099009	AIDS with central nervous system disorder	Disorder	Condition	SNOMED	Invalid	Non-standard
+40376592	186705005	(AIDS) or (HIV infection)	Disorder	Condition	SNOMED	Invalid	Non-standard
+40378574	185195004	Seen in hearing aid clinic	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40379974	183030007	Handicapped aids (& for severely handicapped)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40379979	183034003	Severely handicapped aid NOS (& provision)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40380069	183115001	Anatomo-physiological assistance (& [orthopedic aid])	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40380076	183121002	Dental aid NOS & (fitting)	Physical Object	Device	SNOMED	Invalid	Non-standard
+40380077	183122009	(Auditory aid) or (provision of)	Physical Object	Device	SNOMED	Invalid	Non-standard
+40380084	183129000	(Visual aid) or (provision of visual aid (& spectacles))	Physical Object	Device	SNOMED	Invalid	Non-standard
+40380477	183137008	Surgical aid (& footwear (& [boots] or [shoes]))	Physical Object	Device	SNOMED	Invalid	Non-standard
+40380523	183179002	Other orthopedic aid (& provision)	Physical Object	Device	SNOMED	Invalid	Non-standard
+40380525	183180004	Surgical appliance aid (& provision)	Physical Object	Device	SNOMED	Invalid	Non-standard
+40380526	183181000	Maintenance of posture aid (& provision)	Physical Object	Device	SNOMED	Invalid	Non-standard
+40380527	183182007	Correction of posture aid (& provision)	Physical Object	Device	SNOMED	Invalid	Non-standard
+40380551	183203008	Other orthopedic aid NOS (& provision)	Physical Object	Device	SNOMED	Invalid	Non-standard
+40380568	183219001	Urinary stoma training (& cystostomy)	Procedure	Observation	SNOMED	Invalid	Non-standard
+40380616	183262000	Communication aid	Physical Object	Device	SNOMED	Invalid	Non-standard
+40381046	183299000	Instruction in the use of aids	Procedure	Observation	SNOMED	Invalid	Non-standard
+40381118	183363007	Daily life rehabilitation (& aids - daily life use)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40383788	184027008	Provision of communication aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40383789	184028003	Provision of feeding aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40388362	19423005	AIDS with coccidiosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40390518	19285002	AIDS with opportunistic mycosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40401213	20197001	AIDS with lymphadenopathy	Disorder	Condition	SNOMED	Invalid	Non-standard
+40403276	20421002	AIDS virus infection, NEC	Disorder	Condition	SNOMED	Invalid	Non-standard
+40404532	206145008	Fetus or neonate affected by destructive operation to aid delivery (& [destruction of fetus])	Disorder	Condition	SNOMED	Invalid	Non-standard
+40427373	225677005	Fit hearing aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40427375	225679008	Changing hearing aid battery	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40428747	225983005	Keeping communication aid by patient	Physical Object	Device	SNOMED	Invalid	Non-standard
+40430583	22892000	AIDS with intestinal malabsorption	Disorder	Condition	SNOMED	Invalid	Non-standard
+40433809	23488005	AIDS with progressive multifocal leukoencephalopathy	Disorder	Condition	SNOMED	Invalid	Non-standard
+40436780	232184004	Insertion of bone anchors for percutaneous bone anchored hearing aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40458412	2555007	AIDS with nutritional deficiency	Disorder	Condition	SNOMED	Invalid	Non-standard
+40459343	2520005	AIDS with volume depletion	Disorder	Condition	SNOMED	Invalid	Non-standard
+40481176	444895009	Provision of drinking aid	Procedure	Procedure	SNOMED	Valid	Standard
+40485883	46531005	AIDS with encephalomyelitis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40486004	446046007	Modification of hearing aid mold	Procedure	Procedure	SNOMED	Valid	Standard
+40487286	46910000	AIDS with microsporidiosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40487312	46933004	AIDS with splenomegaly	Disorder	Condition	SNOMED	Invalid	Non-standard
+40487897	446478005	Arthritis impact measurement scale score	Observable Entity	Measurement	SNOMED	Valid	Non-standard
+40487920	446499008	Provision of replacement hearing aid	Procedure	Procedure	SNOMED	Valid	Standard
+40489022	45166008	AIDS with subcutaneous tissue disease	Disorder	Condition	SNOMED	Invalid	Non-standard
+40489351	446766005	Assessment using arthritis impact measurement scale	Procedure	Measurement	SNOMED	Valid	Non-standard
+40490070	45463005	Benzoic acid and salicylic acid	Substance	Drug	SNOMED	Invalid	Non-standard
+40490143	45529006	AIDS with infective arthritis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40491089	45719002	AIDS with hypersplenism	Disorder	Condition	SNOMED	Invalid	Non-standard
+40492864	447489005	Provision of replacement hearing aid component	Procedure	Procedure	SNOMED	Valid	Standard
+40513338	313113003	AIDS with subacute adenoviral encephalitis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40515460	31363004	AIDS with encephalitis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40516462	311982008	Nitroglycerin and other nitric acids and esters	Substance	Drug	SNOMED	Invalid	Non-standard
+40517943	312261006	AIDS with slow virus infection	Disorder	Condition	SNOMED	Invalid	Non-standard
+40519082	316274002	[V]Fitting or adjustment of hearing aid	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40522596	3211006	AIDS with hematopoietic system disease	Disorder	Condition	SNOMED	Invalid	Non-standard
+40525124	314103003	AIDS virus with aseptic meningitis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40528131	34952005	AIDS with radiculitis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40529283	333548007	Adsorbed diphtheria+tetanus+pertussis vaccine injection	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+40532000	33579009	AIDS with candidiasis of skin AND/OR nails	Disorder	Condition	SNOMED	Invalid	Non-standard
+40532429	33615004	AIDS with cytomegalic inclusion disease	Disorder	Condition	SNOMED	Invalid	Non-standard
+40533440	33745006	AIDS with pneumocystosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40538664	36154007	AIDS with deficiency anemia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40539088	359775003	AIDS with isosporiasis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40539091	359778001	AIDS with coccidiosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40539101	359787005	AIDS with dermatophytosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40541688	35372003	AIDS with anemia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40549354	38118004	AIDS with cryptosporidiosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40553892	37721008	AIDS with pneumococcal pneumonia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40557180	376217003	Amino acids 10% injection	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+40557777	390069001	Hearing aid problem	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40559500	39047000	AIDS with septicemia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40561892	392785005	Hearing aid worn	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40562775	389336003	Hearing aid problem	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40563103	393112004	Drug compliance aid requested	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40563563	393166007	Hearing aid requested	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40566639	394063009	Drug compliance aid requested	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40566688	394117000	Hearing aid requested	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40570042	398173000	AIDS with encephalitis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40572055	39363001	AIDS with myelopathy	Disorder	Condition	SNOMED	Invalid	Non-standard
+40572508	393739002	Hearing aid worn	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40595410	42028002	AIDS with failure to thrive syndrome (in infant)	Disorder	Condition	SNOMED	Invalid	Non-standard
+40599235	54962007	AIDS with fever	Disorder	Condition	SNOMED	Invalid	Non-standard
+40601201	51229007	AIDS with strongyloidiasis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40604980	56301005	AIDS with noninfectious gastroenteritis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40607606	60690004	AIDS with herpes simplex	Disorder	Condition	SNOMED	Invalid	Non-standard
+40607612	60696005	AIDS with bacterial pneumonia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40611164	63536001	AIDS with toxoplasmosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40611202	6357002	AIDS with primary lymphoma of the brain	Disorder	Condition	SNOMED	Invalid	Non-standard
+40612233	61800002	AIDS with skin disease	Disorder	Condition	SNOMED	Invalid	Non-standard
+40612548	58002003	AIDS with myelitis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40613401	62102009	AIDS with presenile dementia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40614849	58522005	AIDS with coccidioidomycosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40615014	62395007	AIDS with dermatomycosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40617177	69154000	AIDS with background retinopathy	Disorder	Condition	SNOMED	Invalid	Non-standard
+40617874	71479007	AIDS with abnormal weight loss	Disorder	Condition	SNOMED	Invalid	Non-standard
+40618514	71646001	AIDS with dyspnea	Disorder	Condition	SNOMED	Invalid	Non-standard
+40619928	6764002	AIDS with leukoplakia of oral mucosa (tongue)	Disorder	Condition	SNOMED	Invalid	Non-standard
+40622364	7019004	AIDS with ill-defined intestinal infection	Disorder	Condition	SNOMED	Invalid	Non-standard
+40622858	68313006	AIDS with acquired hemolytic anemia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40624329	64473008	AIDS with salivary gland disease	Disorder	Condition	SNOMED	Invalid	Non-standard
+40624705	68766007	AIDS with polyneuropathy	Disorder	Condition	SNOMED	Invalid	Non-standard
+40625633	73266005	AIDS with fatigue	Disorder	Condition	SNOMED	Invalid	Non-standard
+40627181	77865003	AIDS with Kaposi's sarcoma	Disorder	Condition	SNOMED	Invalid	Non-standard
+40628917	76242005	AIDS with retinal vascular changes	Disorder	Condition	SNOMED	Invalid	Non-standard
+40629865	80440003	AIDS with malignant neoplasm	Disorder	Condition	SNOMED	Invalid	Non-standard
+40631324	74633007	AIDS with cachexia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40631402	768007	AIDS with subacute endocarditis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40634504	77484008	AIDS with non-arthropod-borne viral disease	Disorder	Condition	SNOMED	Invalid	Non-standard
+40634549	77524007	AIDS with infectious gastroenteritis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40635689	88693009	AIDS with candidiasis of lung	Disorder	Condition	SNOMED	Invalid	Non-standard
+40636102	84350008	AIDS with immunoblastic sarcoma	Disorder	Condition	SNOMED	Invalid	Non-standard
+40636708	84487004	AIDS with blindness	Disorder	Condition	SNOMED	Invalid	Non-standard
+40638121	87014001	AIDS with herpes zoster	Disorder	Condition	SNOMED	Invalid	Non-standard
+40638708	87129002	AIDS with CNS demyelinating disease	Disorder	Condition	SNOMED	Invalid	Non-standard
+40638817	89706008	AIDS with Burkitt's tumor	Disorder	Condition	SNOMED	Invalid	Non-standard
+40640008	89395004	AIDS with histoplasmosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40640059	8944008	AIDS with encephalopathy	Disorder	Condition	SNOMED	Invalid	Non-standard
+40641147	87653009	AIDS with Nocardia infection	Disorder	Condition	SNOMED	Invalid	Non-standard
+40641365	90194001	AIDS with organic dementia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40641740	87769005	AIDS with pyrexia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40641912	89565008	AIDS with malaise	Disorder	Condition	SNOMED	Invalid	Non-standard
+40642121	8350005	AIDS with respiratory abnormality	Disorder	Condition	SNOMED	Invalid	Non-standard
+40642744	83659007	AIDS with aplastic anemia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40643053	88136003	AIDS with secondary thrombocytopenia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40644474	83983002	AIDS with thrombocytopenia	Disorder	Condition	SNOMED	Invalid	Non-standard
+40644516	8402005	AIDS with acute myocarditis	Disorder	Condition	SNOMED	Invalid	Non-standard
+40652283	906000	AIDS with agranulocytosis	Disorder	Condition	SNOMED	Invalid	Non-standard
+42537454	736858000	Provision of toileting aid	Procedure	Procedure	SNOMED	Valid	Standard
+42538370	761896006	Provision of night time positioning aid	Procedure	Procedure	SNOMED	Valid	Standard
+42539697	737287002	External hearing aid in situ	Clinical Finding	Observation	SNOMED	Valid	Non-standard
+42689639	1066471000000100	Able to use VOCA (voice output communication aid)	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+44783780	697965002	Cholangitis with AIDS (acquired immunodeficiency syndrome)	Disorder	Condition	SNOMED	Valid	Standard
+44803261	355881000000100	[V]Bone anchored hearing aid in situ	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+44803613	721951000000103	People with human immunodeficiency virus or acquired immune deficiency syndrome	Qualifier Value	Observation	SNOMED	Valid	Standard
+44805060	761591000000105	Wears bone anchored hearing aid	Clinical Finding	Condition	SNOMED	Valid	Standard
+44805275	762351000000104	Uses visual aid	Clinical Finding	Observation	SNOMED	Valid	Standard
+44805276	762361000000101	Uses voice output communication aid	Clinical Finding	Observation	SNOMED	Valid	Standard
+44806915	823431000000101	Provision of patient decision aid	Procedure	Observation	SNOMED	Valid	Standard
+44806947	794301000000107	Urostomy aid education	Procedure	Observation	SNOMED	Valid	Standard
+44807132	815711000000109	Shared decision making with patient decision aid	Procedure	Procedure	SNOMED	Valid	Standard
+44807133	815731000000101	Shared decision making without patient decision aid	Procedure	Procedure	SNOMED	Valid	Standard
+44807435	787311000000104	Provision of toileting aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+44807438	787361000000102	Provision of night time positioning aid	Procedure	Procedure	SNOMED	Invalid	Non-standard
+44811132	872611000000101	Essential fatty acids profile measurement	Procedure	Measurement	SNOMED	Valid	Standard
+44812769	411511000000107	[V]Fitting or adjustment of hearing aid	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+45536974	T65.5X1A	Toxic effect of nitroglycerin and other nitric acids and esters, accidental (unintentional), initial encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45536975	T65.5X3A	Toxic effect of nitroglycerin and other nitric acids and esters, assault, initial encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45536976	T65.5X4A	Toxic effect of nitroglycerin and other nitric acids and esters, undetermined, initial encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45546540	T54.2X1D	Toxic effect of corrosive acids and acid-like substances, accidental (unintentional), subsequent encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45546631	T65.5X2A	Toxic effect of nitroglycerin and other nitric acids and esters, intentional self-harm, initial encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45551422	T65.5	Toxic effect: Nitroglycerin and other nitric acids and esters	ICD10 code	Observation	ICD10	Valid	Non-standard
+45551423	T65.5X3S	Toxic effect of nitroglycerin and other nitric acids and esters, assault, sequela	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45556112	T54.2X3D	Toxic effect of corrosive acids and acid-like substances, assault, subsequent encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45556192	T65.5X3D	Toxic effect of nitroglycerin and other nitric acids and esters, assault, subsequent encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45556193	T65.5X4D	Toxic effect of nitroglycerin and other nitric acids and esters, undetermined, subsequent encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45560974	T65.5X2D	Toxic effect of nitroglycerin and other nitric acids and esters, intentional self-harm, subsequent encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45560975	T65.5X2S	Toxic effect of nitroglycerin and other nitric acids and esters, intentional self-harm, sequela	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45575421	T54.2X4A	Toxic effect of corrosive acids and acid-like substances, undetermined, initial encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45580270	T54.2X3A	Toxic effect of corrosive acids and acid-like substances, assault, initial encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45580271	T54.2X4D	Toxic effect of corrosive acids and acid-like substances, undetermined, subsequent encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45580346	T65.5X4S	Toxic effect of nitroglycerin and other nitric acids and esters, undetermined, sequela	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45585084	T54.2X3S	Toxic effect of corrosive acids and acid-like substances, assault, sequela	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45589915	T54.2	Toxic effect: Corrosive acids and acid-like substances	ICD10 code	Condition	ICD10	Valid	Non-standard
+45590001	T65.5X1D	Toxic effect of nitroglycerin and other nitric acids and esters, accidental (unintentional), subsequent encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45594765	T54.2X2D	Toxic effect of corrosive acids and acid-like substances, intentional self-harm, subsequent encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45594766	T54.2X2S	Toxic effect of corrosive acids and acid-like substances, intentional self-harm, sequela	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45594767	T54.2X4S	Toxic effect of corrosive acids and acid-like substances, undetermined, sequela	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45595518	Z46.1	Fitting and adjustment of hearing aid	ICD10 code	Procedure	ICD10	Valid	Non-standard
+45604413	T54.2X2A	Toxic effect of corrosive acids and acid-like substances, intentional self-harm, initial encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45609178	T54.2X1A	Toxic effect of corrosive acids and acid-like substances, accidental (unintentional), initial encounter	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45609179	T54.2X1S	Toxic effect of corrosive acids and acid-like substances, accidental (unintentional), sequela	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45609264	T65.5X1S	Toxic effect of nitroglycerin and other nitric acids and esters, accidental (unintentional), sequela	7-char billing code	Condition	ICD10CM	Valid	Non-standard
+45757102	10746341000119109	Acquired immune deficiency syndrome complicating childbirth	Disorder	Condition	SNOMED	Valid	Standard
+45757869	462265003	Hand prosthesis range-of-motion aid	Physical Object	Device	SNOMED	Valid	Standard
+45757977	462432009	Head-worn bone-conduction hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45758210	462785003	Angle assistive measuring aid	Physical Object	Device	SNOMED	Valid	Standard
+45758225	462807002	Length assistive measuring aid	Physical Object	Device	SNOMED	Valid	Standard
+45758674	463491007	Receiver-in-canal air-conduction hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45759098	464155003	Receiver-in-the-ear air-conduction hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45759419	464645003	Nasal breathing aid, external	Physical Object	Device	SNOMED	Valid	Standard
+45759438	464679002	Nasal breathing aid, internal, reusable	Physical Object	Device	SNOMED	Invalid	Non-standard
+45759518	464808006	Nasal breathing aid, internal, single-use	Physical Object	Device	SNOMED	Invalid	Non-standard
+45759835	465293006	Transcutaneous air-conduction hearing aid tube	Physical Object	Device	SNOMED	Valid	Standard
+45759839	465297007	Sound-level assistive measuring aid	Physical Object	Device	SNOMED	Valid	Standard
+45759969	465484007	Audiometric/hearing aid tester control unit	Physical Object	Device	SNOMED	Valid	Standard
+45759981	465500003	Transcutaneous air-conduction hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45760249	465884004	Self-injection aid	Physical Object	Device	SNOMED	Valid	Standard
+45760496	466238007	Walking aid tip	Physical Object	Device	SNOMED	Valid	Standard
+45760510	466255006	Walking aid handgrip	Physical Object	Device	SNOMED	Valid	Standard
+45760730	466559001	Spectacle air-conduction hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45761033	466978006	Vibratory tactile hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45761117	467097004	Wearable air-conduction hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45761127	467112008	Volume assistive measuring aid	Physical Object	Device	SNOMED	Valid	Standard
+45761143	467129006	Walking aid ice grip	Physical Object	Device	SNOMED	Valid	Standard
+45761149	467138008	Behind-the-ear air-conduction hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45761293	467350005	Container opening aid	Physical Object	Device	SNOMED	Valid	Standard
+45761435	467562005	Canal air-conduction hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45761645	467874001	Color-identification assistive measuring aid	Physical Object	Device	SNOMED	Valid	Standard
+45761838	468162001	Climatic-condition assistive measuring aid	Physical Object	Device	SNOMED	Valid	Standard
+45762009	468421000	Anchored bone-conduction hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45762069	468510006	Electrical-property assistive measuring aid	Physical Object	Device	SNOMED	Valid	Standard
+45762244	468774009	Electrical-stimuli tactile hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45762595	469320005	Food cleaning/peeling aid	Physical Object	Device	SNOMED	Valid	Standard
+45762614	469349002	Hearing aid enhanced audio device, teaching-environment	Physical Object	Device	SNOMED	Valid	Standard
+45762649	469396005	Hearing aid tester	Physical Object	Device	SNOMED	Valid	Standard
+45762665	469423008	Food heating aid	Physical Object	Device	SNOMED	Valid	Standard
+45762723	469512007	In-the-ear air-conduction hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45762824	469664006	Food boiling/frying aid	Physical Object	Device	SNOMED	Valid	Standard
+45762841	469690009	Food baking aid	Physical Object	Device	SNOMED	Valid	Standard
+45762865	469734007	Mass assistive measuring aid	Physical Object	Device	SNOMED	Valid	Standard
+45763022	469976009	Fluid-density assistive measuring aid	Physical Object	Device	SNOMED	Valid	Standard
+45763112	470102004	Food processing aid	Physical Object	Device	SNOMED	Valid	Standard
+45763134	470136005	Hearing aid master	Physical Object	Device	SNOMED	Valid	Standard
+45763156	470166003	Food weighing/measuring aid	Physical Object	Device	SNOMED	Valid	Standard
+45763199	470232003	Laundry ironing aid	Physical Object	Device	SNOMED	Valid	Standard
+45763360	470474005	Laundry ironing-surface aid	Physical Object	Device	SNOMED	Valid	Standard
+45763994	700563004	Exudate-absorbent first aid dressing, hydrophilic-gel, antimicrobial	Physical Object	Device	SNOMED	Valid	Standard
+45764118	700715004	First aid kit, non-medicated, reusable	Physical Object	Device	SNOMED	Invalid	Non-standard
+45764119	700716003	First aid kit, non-medicated, single-use	Physical Object	Device	SNOMED	Invalid	Non-standard
+45764156	700759008	First aid kit, medicated	Physical Object	Device	SNOMED	Invalid	Non-standard
+45765061	701895000	Hearing aid fitting/programming application software	Physical Object	Device	SNOMED	Valid	Standard
+45765066	701906007	Hearing aid enhanced audio attachment	Physical Object	Device	SNOMED	Valid	Standard
+45765075	701916004	Hearing aid neck induction loop, passive	Physical Object	Device	SNOMED	Valid	Standard
+45765076	701917008	Hearing aid neck induction loop, active	Physical Object	Device	SNOMED	Valid	Standard
+45765237	702119009	Hearing aid wax guard	Physical Object	Device	SNOMED	Valid	Standard
+45766461	703625002	Kaposi's sarcoma not associated with acquired immunodeficiency syndrome	Disorder	Condition	SNOMED	Valid	Standard
+45767765	705312000	Nasal breathing aid	Physical Object	Device	SNOMED	Valid	Standard
+45767768	705320003	Tactile hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45767769	705321004	Air-conduction hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45768354	706569009	Emergency/First aid kits	Physical Object	Device	SNOMED	Invalid	Non-standard
+45770663	933181000000102	Assessment using Malcomess Care Aims Model	Procedure	Measurement	SNOMED	Valid	Non-standard
+45770664	933191000000100	Malcomess Care Aims Model score	Observable Entity	Measurement	SNOMED	Valid	Non-standard
+45771113	700635009	Hearing aid induction loop system	Physical Object	Device	SNOMED	Valid	Standard
+45771468	704875007	Tooth-worn bone-conduction hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45771501	705389000	Assistive measuring aid	Physical Object	Device	SNOMED	Valid	Standard
+45771761	465907007	Audiometric/hearing aid tester application software	Physical Object	Device	SNOMED	Valid	Standard
+45771835	467083007	Television set listening aid	Physical Object	Device	SNOMED	Valid	Standard
+45771974	469422003	First aid gauze/bandage	Physical Object	Device	SNOMED	Valid	Standard
+45771979	469513002	Hearing aid remote control	Physical Object	Device	SNOMED	Valid	Standard
+45772328	469895001	Food cutting/chopping aid	Physical Object	Device	SNOMED	Valid	Standard
+45772582	468442003	Dish draining aid	Physical Object	Device	SNOMED	Valid	Standard
+45772800	705322006	Bone-conduction hearing aid	Physical Object	Device	SNOMED	Valid	Standard
+45773231	700592000	Hearing aid enhanced audio device, telecommunication/multimedia	Physical Object	Device	SNOMED	Valid	Standard
+45773327	701915000	Hearing aid neck induction loop, wireless input	Physical Object	Device	SNOMED	Valid	Standard
+45773455	465609008	Audiometric/hearing aid tester	Physical Object	Device	SNOMED	Valid	Standard
+45773457	465797008	Atmospheric-pressure assistive measuring aid	Physical Object	Device	SNOMED	Valid	Standard
+45773486	469394008	Hearing aid wireless-fitting computer-aided set	Physical Object	Device	SNOMED	Invalid	Non-standard
+45773666	933161000000106	Malcomess Care Aims Model	Staging / Scales	Measurement	SNOMED	Valid	Standard
+46271857	710120003	Promotion of walking using mobility aid	Procedure	Procedure	SNOMED	Valid	Standard
+46273012	711480000	Activated PI3K-delta syndrome	Disorder	Condition	SNOMED	Valid	Standard
+46273134	711626004	First aid instructional blanket	Physical Object	Device	SNOMED	Valid	Standard
+46285199	967051000000106	Assessment using Acceptance of Illness Scale	Procedure	Procedure	SNOMED	Invalid	Non-standard
+46285594	973391000000104	Acceptance of Illness Scale score	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+46286261	983231000000100	Assessment of Intelligibility of Dysarthric Speech	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard
+46286262	983241000000109	Assessment using Assessment of Intelligibility of Dysarthric Speech	Procedure	Procedure	SNOMED	Invalid	Non-standard
+46286263	983251000000107	Assessment of Intelligibility of Dysarthric Speech score	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
